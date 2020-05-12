@@ -5,7 +5,7 @@ import discord
 from dotenv import load_dotenv
 import random
 load_dotenv()
-TOKEN = "Njk5NzcwNTIyODUzOTY1ODc0.Xp9-eQ.N0MmOMjPuMaX_jfFO0smoht6AlA"
+TOKEN = "Njk5NzcwNTIyODUzOTY1ODc0.XrogXg.RWYV6eAHDDfhwnHEwkeJa1rFNzg"
 SERVER = "Sam's Simp Army"
 
 client = discord.Client()
