@@ -1,0 +1,118 @@
+Index: bot.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># bot.py\r\nimport os\r\n\r\nimport discord\r\nfrom dotenv import load_dotenv\r\nimport random\r\nload_dotenv()\r\nTOKEN = \"Njk5NzcwNTIyODUzOTY1ODc0.Xp9-eQ.N0MmOMjPuMaX_jfFO0smoht6AlA\"\r\nSERVER = \"Sam's Simp Army\"\r\n\r\nclient = discord.Client()\r\n\r\n@client.event\r\nasync def on_ready():\r\n    print(f'{client.user.name} has connected to Discord!')\r\n\r\n@client.event\r\nasync def on_member_join(member):\r\n    await member.create_dm()\r\n    await member.dm_channel.send(\r\n        f'Hi {member.name}, fuck you'\r\n    )\r\n\r\n@client.event\r\nasync def on_message(message):\r\n    if message.author == client.user:\r\n        return\r\n\r\n    andrew_quotes = [\r\n        'I\\'m gay',\r\n\r\n        'Im sick as fuck bro!',\r\n    ]\r\n\r\n    violet_quotes = [\r\n        'uwu I wuv krish',\r\n        (\r\n            'You are a king'\r\n        ),\r\n    ]\r\n\r\n    jacob_quotes = [\r\n        'Thats the thing',\r\n        'The thing is',\r\n    ]\r\n\r\n\r\n    dhaval_quotes = [\r\n        'STFU Dhaval',\r\n        'No one cares Dhaval',\r\n    ]\r\n    if message.content == '!Andrew':\r\n        response = random.choice(andrew_quotes)\r\n        await message.channel.send(response)\r\n\r\n    elif message.content == '!Violet':\r\n        response = random.choice(violet_quotes)\r\n        await message.channel.send(response)\r\n\r\n    elif message.content == '!Jacob':\r\n        response = random.choice(jacob_quotes)\r\n        await message.channel.send(response)\r\n\r\n    elif message.content == '!Dhaval':\r\n        response = random.choice(dhaval_quotes)\r\n        await message.channel.send(response)\r\n\r\nclient.run(TOKEN)
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- bot.py	(revision b54d4c23ee05dfe5f876bac55eff5b26661a2eb9)
++++ bot.py	(date 1589259131603)
+@@ -2,10 +2,8 @@
+ import os
+ 
+ import discord
+-from dotenv import load_dotenv
+ import random
+-load_dotenv()
+-TOKEN = "Njk5NzcwNTIyODUzOTY1ODc0.Xp9-eQ.N0MmOMjPuMaX_jfFO0smoht6AlA"
++TOKEN = "Njk5NzcwNTIyODUzOTY1ODc0.XrogXg.RWYV6eAHDDfhwnHEwkeJa1rFNzg"
+ SERVER = "Sam's Simp Army"
+ 
+ client = discord.Client()
+@@ -25,30 +23,17 @@
+ async def on_message(message):
+     if message.author == client.user:
+         return
+-
+-    andrew_quotes = [
+-        'I\'m gay',
+-
+-        'Im sick as fuck bro!',
+-    ]
+-
+-    violet_quotes = [
+-        'uwu I wuv krish',
+-        (
+-            'You are a king'
+-        ),
+-    ]
+-
+-    jacob_quotes = [
+-        'Thats the thing',
+-        'The thing is',
+-    ]
++    horror_movies = [
++        "silence of the lambs",
++        "the shining",
++        "psycho",
++        "hereditary",
++        "the conjuring",
++        "paranormal activity",
+ 
+-
+-    dhaval_quotes = [
+-        'STFU Dhaval',
+-        'No one cares Dhaval',
+     ]
++    if(message.content == "!search horror")
++        return random.choice(horror_movies)
+     if message.content == '!Andrew':
+         response = random.choice(andrew_quotes)
+         await message.channel.send(response)
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/vcs.xml	(date 1589256729654)
++++ .idea/vcs.xml	(date 1589256729654)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/discordbot.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<module type=\"PYTHON_MODULE\" version=\"4\">\r\n  <component name=\"NewModuleRootManager\">\r\n    <content url=\"file://$MODULE_DIR$\">\r\n      <excludeFolder url=\"file://$MODULE_DIR$/python\" />\r\n    </content>\r\n    <orderEntry type=\"inheritedJdk\" />\r\n    <orderEntry type=\"sourceFolder\" forTests=\"false\" />\r\n    <orderEntry type=\"library\" name=\"R User Library\" level=\"project\" />\r\n    <orderEntry type=\"library\" name=\"R Skeletons\" level=\"application\" />\r\n  </component>\r\n  <component name=\"TestRunnerService\">\r\n    <option name=\"PROJECT_TEST_RUNNER\" value=\"Unittests\" />\r\n  </component>\r\n</module>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/discordbot.iml	(revision b54d4c23ee05dfe5f876bac55eff5b26661a2eb9)
++++ .idea/discordbot.iml	(date 1589257256346)
+@@ -3,13 +3,11 @@
+   <component name="NewModuleRootManager">
+     <content url="file://$MODULE_DIR$">
+       <excludeFolder url="file://$MODULE_DIR$/python" />
++      <excludeFolder url="file://$MODULE_DIR$/venv" />
+     </content>
+-    <orderEntry type="inheritedJdk" />
++    <orderEntry type="jdk" jdkName="Python 3.8 (discordbot)" jdkType="Python SDK" />
+     <orderEntry type="sourceFolder" forTests="false" />
+     <orderEntry type="library" name="R User Library" level="project" />
+     <orderEntry type="library" name="R Skeletons" level="application" />
+   </component>
+-  <component name="TestRunnerService">
+-    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+-  </component>
+ </module>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ProjectRootManager\" version=\"2\" project-jdk-name=\"Python 3.7 (discordbot)\" project-jdk-type=\"Python SDK\" />\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/misc.xml	(revision b54d4c23ee05dfe5f876bac55eff5b26661a2eb9)
++++ .idea/misc.xml	(date 1589257256367)
+@@ -1,4 +1,4 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.7 (discordbot)" project-jdk-type="Python SDK" />
++  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.8 (discordbot)" project-jdk-type="Python SDK" />
+ </project>
+\ No newline at end of file
