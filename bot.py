@@ -3,10 +3,9 @@ import os
 
 import discord
 import random
-import auth
 
 SERVER = "Sam's Simp Army"
-
+TOKEN = "Njk5NzcwNTIyODUzOTY1ODc0.Xror2w.7csaUoGgxtAU0xVFcR7M9qXd1gI"
 client = discord.Client()
 
 @client.event
@@ -51,4 +50,4 @@ async def on_message(message):
         response = random.choice(dhaval_quotes)
         await message.channel.send(response)
 
-client.run(auth.TOKEN)
+client.run()
