@@ -2,10 +2,9 @@
 import os
 
 import discord
-from dotenv import load_dotenv
 import random
-load_dotenv()
-TOKEN = "Njk5NzcwNTIyODUzOTY1ODc0.XrogXg.RWYV6eAHDDfhwnHEwkeJa1rFNzg"
+import auth
+
 SERVER = "Sam's Simp Army"
 
 client = discord.Client()
@@ -25,30 +24,17 @@ async def on_member_join(member):
 async def on_message(message):
     if message.author == client.user:
         return
-
-    andrew_quotes = [
-        'I\'m gay',
-
-        'Im sick as fuck bro!',
+    horror_movies = [
+        "silence of the lambs",
+        "the shining",
+        "psycho",
+        "hereditary",
+        "the conjuring",
+        "paranormal activity",
+        ""
     ]
-
-    violet_quotes = [
-        'uwu I wuv krish',
-        (
-            'You are a king'
-        ),
-    ]
-
-    jacob_quotes = [
-        'Thats the thing',
-        'The thing is',
-    ]
-
-
-    dhaval_quotes = [
-        'STFU Dhaval',
-        'No one cares Dhaval',
-    ]
+    if(message.content == "!search horror")
+        return random.choice(horror_movies)
     if message.content == '!Andrew':
         response = random.choice(andrew_quotes)
         await message.channel.send(response)
@@ -65,4 +51,4 @@ async def on_message(message):
         response = random.choice(dhaval_quotes)
         await message.channel.send(response)
 
-client.run(TOKEN)
+client.run(auth.TOKEN)
