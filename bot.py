@@ -36,4 +36,5 @@ async def on_message(message):
             else:
                 newMovie += parts[i]
         MovieLists.WriteToFile("horrormovies.txt", newMovie)
+
 client.run(auth.TOKEN)

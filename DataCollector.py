@@ -5,7 +5,7 @@ from time import sleep
 from random import randint
 import numpy as np
 
-pages = np.arramge(1, 9951, 50)
+pages = np.arange(1, 1000, 50)
 genres = ["sci-fi",
           "animation",
           "action",
