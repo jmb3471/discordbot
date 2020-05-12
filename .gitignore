@@ -130,3 +130,4 @@ dmypy.json
 
 #discord Token
 auth.py/
+auth.py
