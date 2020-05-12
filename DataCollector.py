@@ -3,9 +3,8 @@ from bs4 import BeautifulSoup
 from warnings import warn
 from time import sleep
 from random import randint
-import numpy as np
 
-pages = np.arramge(1, 9951, 50)
+pages = [1, 51, 101, 151, 201, 251, 301, 351, 401, 451, 501, 551, 601, 651, 701, 751, 801, 851, 901, 951]
 genres = ["sci-fi",
           "animation",
           "action",
@@ -14,7 +13,8 @@ genres = ["sci-fi",
           "fantasy",
           "thriller",
           "horror",
-          "mystery"]
+          "mystery",
+          "drama"]
 for genre in genres:
     writeFile = open(str(genre) + "Titles.txt", "w")
     for page in pages:
