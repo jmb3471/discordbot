@@ -30,24 +30,15 @@ async def on_message(message):
         "hereditary",
         "the conjuring",
         "paranormal activity",
-        ""
+        "Alien",
+        "The Thing",
+        "The Exorcist",
+        "Rosemary's Baby",
+        "The Lighthouse",
+        "Saw"
     ]
-    if(message.content == "!search horror")
+    if(message.content == "!horror"):
         return random.choice(horror_movies)
-    if message.content == '!Andrew':
-        response = random.choice(andrew_quotes)
-        await message.channel.send(response)
 
-    elif message.content == '!Violet':
-        response = random.choice(violet_quotes)
-        await message.channel.send(response)
-
-    elif message.content == '!Jacob':
-        response = random.choice(jacob_quotes)
-        await message.channel.send(response)
-
-    elif message.content == '!Dhaval':
-        response = random.choice(dhaval_quotes)
-        await message.channel.send(response)
 
 client.run(auth.TOKEN)
