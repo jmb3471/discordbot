@@ -3,6 +3,7 @@ import os
 
 import discord
 import random
+import MovieLists
 import auth
 
 SERVER = "Sam's Simp Army"
@@ -23,22 +24,16 @@ async def on_member_join(member):
 async def on_message(message):
     if message.author == client.user:
         return
-    horror_movies = [
-        "silence of the lambs",
-        "the shining",
-        "psycho",
-        "hereditary",
-        "the conjuring",
-        "paranormal activity",
-        "Alien",
-        "The Thing",
-        "The Exorcist",
-        "Rosemary's Baby",
-        "The Lighthouse",
-        "Saw"
-    ]
-    if(message.content == "!horror"):
-        return random.choice(horror_movies)
-
-
+    parts = message.content.split()
+    horrorMovies = MovieLists.ReadFromFile("horrormovies.txt")
+    if(parts[0] == "!horror"):
+        await message.channel.send(horrorMovies)
+    if(parts[0] == "!add"):
+        newMovie = ""
+        for i in range(1, len(parts)):
+            if(i < len(parts) - 1):
+                newMovie += parts[i] + " "
+            else:
+                newMovie += parts[i]
+        MovieLists.WriteToFile("horrormovies.txt", newMovie)
 client.run(auth.TOKEN)
