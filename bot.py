@@ -27,9 +27,8 @@ async def on_message(message):
     if message.author == client.user:
         return
     parts = message.content.split()
-    horrorMovies = MovieLists.ReadFromFile("horrorTitles.txt")
     if(parts[0] == "!horror"):
-        horrorMovies = MovieLists.ReadFromFile("MovieLists/horrorTitles.txt")
+        horrorMovies = MovieLists.ReadFromFile("GenreLists/horrorTitles.txt")
         randomNum = random.randint(0, len(horrorMovies))
         await message.channel.send(horrorMovies[randomNum])
         await message.channel.send(horrorMovies[randomNum + 1])

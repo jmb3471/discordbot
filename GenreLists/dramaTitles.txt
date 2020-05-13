@@ -1,4 +1,3 @@
-Dangerous Lies
 Once Upon a Time... in Hollywood
 Parasite
 Bad Education
@@ -6,24 +5,16 @@ The Lodge
 Knives Out
 1917
 Avengers: Endgame
-Joker
-All Day and a Night
-Den of Thieves
-Jojo Rabbit
-Bloodshot
-Arkansas
 The Shawshank Redemption
 Midsommar
 The Godfather
 Little Women
 Hustlers
-Code 8
 Contagion
 The Assistant
 Uncut Gems
 The Lighthouse
 Interstellar
-The Call of the Wild
 The Patriot
 The Dark Knight
 Ford v Ferrari
@@ -37,25 +28,18 @@ The Wolf of Wall Street
 Call Me by Your Name
 The Lord of the Rings: The Fellowship of the Ring
 The Guernsey Literary and Potato Peel Pie Society
-It Chapter Two
-The Lion King
 Se7en
 Bombshell
 Saving Private Ryan
 Portrait of a Lady on Fire
-Twilight
 The Curious Case of Benjamin Button
-Tombstone
 Forrest Gump
 Fight Club
-Spenser Confidential
 Schindler's List
 Titanic
-Doctor Sleep
 Blade Runner 2049
 Hereditary
 The Silence of the Lambs
-Capone
 Goodfellas
 Dunkirk
 The Departed
@@ -67,64 +51,46 @@ Emma.
 The Breakfast Club
 The Killing of a Sacred Deer
 BlacKkKlansman
-Footloose
-Love
 Marriage Story
 Gone Girl
 Crazy Rich Asians
-Cats
 Taxi Driver
-The Greatest Showman
 Scarface
-After
-I Still Believe
 Ex Machina
 The King
 Fury
 Lady Bird
-The Art of Racing in the Rain
 Léon: The Professional
 Rocketman
 Prisoners
 The Shining
-Sergio
 No Country for Old Men
 Harry Potter and the Deathly Hallows: Part 2
 Apocalypse Now
 The Way Back
-The Rhythm Section
 The Lord of the Rings: The Return of the King
 Almost Famous
 Molly's Game
 Ad Astra
-Top Gun
 Hacksaw Ridge
-Midway
 La La Land
 I See You
 The Green Mile
 The Martian
 A Quiet Place
-Fifty Shades of Grey
 Hidden Figures
 Requiem for a Dream
 The Perks of Being a Wallflower
-Bohemian Rhapsody
-Greed
 Just Mercy
 Baby Driver
 Whiplash
-21 Bridges
 The Hateful Eight
 Annihilation
 Eternal Sunshine of the Spotless Mind
-Watchmen
 Good Will Hunting
-Troy
 12 Angry Men
 The Social Network
 American Beauty
-The Twilight Saga: Breaking Dawn - Part 2
 A Beautiful Day in the Neighborhood
 Triple Frontier
 El Camino: A Breaking Bad Movie
@@ -138,13 +104,11 @@ The Lion King
 The VVitch: A New-England Folktale
 Heat
 Zodiac
-The Outsiders
 Cast Away
 A League of Their Own
 Sicario
 One Flew Over the Cuckoo's Nest
 Ip Man 4: The Finale
-Radioactive
 American Psycho
 Three Billboards Outside Ebbing, Missouri
 The Sixth Sense
@@ -158,9 +122,7 @@ A Simple Favor
 Arrival
 Reservoir Dogs
 Slumdog Millionaire
-Jarhead
 Eyes Wide Shut
-The Notebook
 The Town
 Catch Me If You Can
 The Pianist
@@ -169,48 +131,33 @@ Pride & Prejudice
 Oldboy
 True History of the Kelly Gang
 The Place Beyond the Pines
-The Goldfinch
-300
 Logan
 Warrior
 American History X
-Night Hunter
 The King's Speech
-Bad Times at the El Royale
 Pan's Labyrinth
-Willow
 Drive
 The Girl with the Dragon Tattoo
 A Star Is Born
 Ema
-Life Is Beautiful
 Hunt for the Wilderpeople
 Dark Waters
 The Truman Show
-The Perfect Storm
-The Godfather: Part III
 Ratatouille
 Life of Pi
 Unforgiven
 Donnie Darko
-Murder on the Orient Express
 Stand by Me
-Focus
 Kingdom of Heaven
 Fighting with My Family
 Downfall
-The Great Gatsby
-Romeo + Juliet
 Blow the Man Down
-The Turning
 Hail, Caesar!
 The Death of Stalin
 The Florida Project
-12 Strong
 Full Metal Jacket
 Mulholland Dr.
 The Photograph
-The Intouchables
 Apocalypto
 Road to Perdition
 Mother!
@@ -219,20 +166,13 @@ Black Swan
 Silver Linings Playbook
 American Graffiti
 The Favourite
-A Nightmare on Elm Street
 Les Misérables
 10 Things I Hate About You
 The Imitation Game
 Boogie Nights
-Bird Box
-The Blue Lagoon
 Downton Abbey
 The Invitation
-True Romance
 Into the Wild
-Fifty Shades Freed
-Cleopatra
-Brightburn
 Honey Boy
 The Untouchables
 Birdman or (The Unexpected Virtue of Ignorance)
@@ -241,21 +181,16 @@ The Ballad of Buster Scruggs
 Splendor in the Grass
 Good Time
 G.I. Jane
-Glass
-The Last Full Measure
 The Lobster
-Five Feet Apart
 Seven Samurai
 The Sound of Music
 The Help
 Capharnaüm
 Sicario: Day of the Soldado
-Me Before You
 The Handmaiden
 City of God
 Fargo
 Your Name.
-The Last Thing He Wanted
 Wonder
 Okja
 Under the Skin
@@ -265,25 +200,16 @@ Thirteen
 Inside Out
 Spotlight
 I, Tonya
-San Andreas
 American Sniper
-Red Dawn
-Polar
 12 Years a Slave
 Bone Tomahawk
-Love Actually
 Darkest Hour
-Gemini Man
-Extremely Wicked, Shockingly Evil and Vile
 Black Hawk Down
-Gifted
 Platoon
 Lion
 A Beautiful Mind
 Atonement
-Under the Silver Lake
 A Hidden Life
-Motherless Brooklyn
 Vice
 Captain Fantastic
 Casablanca
@@ -291,98 +217,59 @@ Nocturnal Animals
 The Lunchbox
 The Post
 The Searchers
-Passengers
-Basic Instinct
-Unbroken
 True Grit
 Phantom Thread
 Zero Dark Thirty
 Trainspotting
-Four Brothers
 Argo
-Meet Joe Black
 Logan Lucky
-Mirror Mirror
-About Time
 V for Vendetta
-King Arthur: Legend of the Sword
-Legends of the Fall
-Malena
 Enemy
 Shirley
 Dead Poets Society
 Kids
 Dirty Dancing
 Lost Girls
-Legend
 All the Bright Places
-Knock Knock
 Moneyball
-Pretty in Pink
-Antichrist
 Beautiful Boy
 Cinderella
-The Banker
 Fast Times at Ridgemont High
-Red Joan
 Driveways
 The Master
 Gangs of New York
 Lost in Translation
 Blue Is the Warmest Colour
 Outbreak
-You've Got Mail
 Children of Men
-Primal Fear
-13 Hours
 The Dreamers
 Brokeback Mountain
-The Highwaymen
 Looper
 Togo
 Gravity
-Pearl Harbor
 The Informer
 The Lives of Others
 The Lincoln Lawyer
-Inferno
 American Hustle
 Incendies
-The House That Jack Built
-Instant Family
-Hannibal
-Red Dragon
-The Legend of Tarzan
-The NeverEnding Story
 Predestination
-Big Fish
-Brahms: The Boy II
 I Am Legend
 Hell or High Water
 Swallow
-Serenity
 The Fault in Our Stars
 Jerry Maguire
 What's Eating Gilbert Grape
 Blinded by the Light
-The Accountant
 28 Days Later...
-Wild Things
 The Fugitive
-Rising High
 Rush
 Mid90s
 Climax
 War for the Planet of the Apes
-Irréversible
 Magnolia
-Run All Night
 The Hunt
 Gerald's Game
-The Twilight Saga: Eclipse
-The Room
 Casino
-The Laundromat
 Misery
 Blue Velvet
 Black Mass
@@ -391,60 +278,39 @@ Memories of Murder
 The Conversation
 The Report
 Rocky
-Red Sparrow
-50 First Dates
 The Pursuit of Happyness
 Blue Story
-Lolita
 A Few Good Men
 L.A. Confidential
-Carrie Pilby
-Lone Survivor
-The Twilight Saga: Breaking Dawn - Part 1
 Little Women
 A Room with a View
 Citizen Kane
-War Dogs
 Amadeus
 The Two Popes
-1BR
 Nymphomaniac: Vol. I
 Wind River
 The Devil Wears Prada
-The Upside
-Steel Magnolias
 On the Waterfront
-The Devil's Advocate
 Dogtooth
-Cold Pursuit
-The Next Three Days
 Close Encounters of the Third Kind
 Disturbia
 Spring Breakers
-The Jesus Rolls
-Miss Peregrine's Home for Peculiar Children
 Collateral
 Freaks
 3 Idiots
 Manchester by the Sea
 Dallas Buyers Club
-Endings, Beginnings
 Chinatown
 Million Dollar Baby
 The Elephant Man
-A Score to Settle
-Cloud Atlas
 Horse Girl
 Before Sunrise
 Judy
-The Twilight Saga: New Moon
-Deep Impact
 The Gift
 Moonrise Kingdom
 First Man
 Near Dark
 Frankenstein
-Crawl
 Crash
 Blood Diamond
 The Last of the Mohicans
@@ -455,25 +321,14 @@ Natural Born Killers
 Dances with Wolves
 Match Point
 Pain and Glory
-Fifty Shades Darker
 That Thing You Do!
-The Current War
 West Side Story
-He's Just Not That Into You
-Ghost in the Shell
 Little Miss Sunshine
 Melancholia
 The Impossible
-The Counselor
-Footloose
-Tusk
 Roma
-Interview with the Vampire: The Vampire Chronicles
 The Edge of Seventeen
 Erin Brockovich
 Jackie Brown
-In the Tall Grass
 1922
-Mary Queen of Scots
 Empire of the Sun
-The Aeronauts
