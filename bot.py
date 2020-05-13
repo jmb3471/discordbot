@@ -37,7 +37,7 @@ async def on_message(message):
     if message.author == client.user:
         return
 
-	content = message.content.toLowerCase()
+    content = message.content.lower()
     parts = content.split()
     #Checks if the user is looking for a movie of a specific genre
     for genre in genres:
