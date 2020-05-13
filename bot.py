@@ -1,5 +1,4 @@
 # bot.py
-import os
 
 import discord
 import random
@@ -42,6 +41,13 @@ async def on_message(message):
 
     content = message.content.lower()
     parts = content.split()
+    filename = parts[0]
+    filename = filename[1:]
+    if (path.exists(filename)):
+        mylist = MovieLists.ReadFromFile(filename)
+        randomNum = random.randint(0, len(mylist) - 1)
+        await message.channel.send(mylist[randomNum])
+
     #Checks if the user is looking for a movie of a specific genre
     for genre in genres:
         if parts[0] == "!" + genre:
@@ -55,7 +61,7 @@ async def on_message(message):
         await  message.channel.send("!genre - Picks a random movie from a given genre. Genres include sci-fi, animation, action, comedy, adventure, fantasy, thriller, horror, mystery and drama")
         await  message.channel.send("!add (movie title) - Adds a movie to the given list")
         await  message.channel.send("!create (list name) - Creates a list with the given name")
-    if(parts[0] == "!add"):
+    elif(parts[0] == "!add"):
         try:
             print(parts[1] + "list.txt")
 
