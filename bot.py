@@ -55,7 +55,8 @@ async def on_message(message):
             randomNum = random.randint(0, len(movieList) - 1)
             for i in range(1, 4):
                 movieTitle = movieList[randomNum + i]
-                await message.channel.send(movieList[randomNum + i] + "\n" + IMDB_URL_START + IDcollector.getByName(movieTitle) + IMDB_URL_END)
+                await message.channel.send(":clapper:**" + movieTitle+ "**"  + "\n**Director**: " + IDcollector.getDirector(movieTitle) + "\n" + "**IMDB Rating**: " + IDcollector.getIMDBRating(movieTitle) + "\n"
+                                           + ":thought_balloon:**Description**: " + IDcollector.getPlot(movieTitle) + "\n" + IMDB_URL_START + IDcollector.getID(movieTitle) + IMDB_URL_END + "\n")
     if parts[0] == "!help":
         await  message.channel.send("Here are my commands:")
         await  message.channel.send("!genre - Picks a random movie from a given genre. Genres include sci-fi, animation, action, comedy, adventure, fantasy, thriller, horror, mystery and drama")
@@ -69,7 +70,7 @@ async def on_message(message):
 
             newMovie = ""
             for i in range(2, len(parts)):
-                if(i < len(parts) - 1):
+                if i < len(parts) - 1:
                     newMovie += parts[i] + " "
                 else:
                     newMovie += parts[i]
