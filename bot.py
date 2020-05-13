@@ -6,8 +6,7 @@ import MovieLists
 import auth
 import os.path
 from os import path
-API_KEY = "bb22565a"
-URL = "http://www.omdbapi.com/?apikey=" + API_KEY + "&"
+URL = "http://www.omdbapi.com/?apikey=" + auth.API_KEY + "&"
 IMDB_URL_START = "https://www.imdb.com/title/"
 IMDB_URL_END = "/?ref_=hm_fanfav_tt_1_pd_fp1"
 SERVER = "Sam's Simp Army"
