@@ -1,16 +1,3 @@
-Star Wars: Episode IV - A New Hope
-Star Wars: Episode VIII - The Last Jedi
-The Princess Bride
-The Lighthouse
-Onward
-Harry Potter and the Sorcerer's Stone
-Thor: Ragnarok
-Gretel & Hansel
-The Lord of the Rings: The Fellowship of the Ring
-Star Wars: Episode III - Revenge of the Sith
-Star Wars: Episode V - The Empire Strikes Back
-The Curious Case of Benjamin Button
-Frozen II
 The Shape of Water
 Pirates of the Caribbean: The Curse of the Black Pearl
 Toy Story 4
@@ -44,20 +31,6 @@ Harry Potter and the Deathly Hallows: Part 1
 Frozen
 Beetlejuice
 Harry Potter and the Half-Blood Prince
-Suspiria
-Mulan
-Your Name.
-Kong: Skull Island
-Inside Out
-Howl's Moving Castle
-Tangled
-The Wizard of Oz
-Groundhog Day
-Toy Story
-Mandy
-Who Framed Roger Rabbit
-Matilda
-Zombieland
 Cinderella
 Ghostbusters
 Mary Poppins Returns
@@ -71,9 +44,20 @@ Monsters, Inc.
 The Little Mermaid
 Ralph Breaks the Internet
 Midnight in Paris
+Suspiria
 Edward Scissorhands
 The Princess and the Frog
 Monty Python and the Holy Grail
+Mulan
+Your Name.
+Kong: Skull Island
+Inside Out
+Howl's Moving Castle
+Tangled
+The Wizard of Oz
+Groundhog Day
+Toy Story
+Mandy
 The Lego Movie 2: The Second Part
 Toy Story 3
 Beauty and the Beast
@@ -82,6 +66,9 @@ Abominable
 Apostle
 Brave
 Shrek
+Who Framed Roger Rabbit
+Matilda
+Zombieland
 Lemony Snicket's A Series of Unfortunate Events
 Hugo
 How to Train Your Dragon: The Hidden World
@@ -89,18 +76,6 @@ Mr. Nobody
 The Crow
 Sausage Party
 It's a Wonderful Life
-Crimson Peak
-The Nightmare Before Christmas
-Wreck-It Ralph
-Big
-Into the Woods
-My Neighbor Totoro
-Batman Returns
-The Jungle Book
-Zathura: A Space Adventure
-Peter Pan
-Bridge to Terabithia
-The Tree of Life
 Isle of Dogs
 Liar Liar
 Sorry to Bother You
@@ -113,44 +88,34 @@ The Lego Movie
 Toy Story 2
 How to Train Your Dragon
 Being John Malkovich
+Star Wars: Episode IV - A New Hope
+Star Wars: Episode VIII - The Last Jedi
+The Princess Bride
+The Lighthouse
+Onward
+Harry Potter and the Sorcerer's Stone
+Thor: Ragnarok
+Gretel & Hansel
+The Lord of the Rings: The Fellowship of the Ring
+Star Wars: Episode III - Revenge of the Sith
+Star Wars: Episode V - The Empire Strikes Back
+The Curious Case of Benjamin Button
+Frozen II
+The Imaginarium of Doctor Parnassus
+Dogma
+Extra Ordinary
+The Good Dinosaur
+Mystery Men
 Gremlins
 Lilo & Stitch
 Byzantium
 The Chronicles of Narnia: Prince Caspian
 The Endless
 Ponyo
+Crimson Peak
 The Prince of Egypt
 Swiss Army Man
-Monsters University
-Addams Family Values
-Pleasantville
-The Illusionist
-Shrek 2
-Crouching Tiger, Hidden Dragon
-Let Me In
-A Ghost Story
-Time Bandits
-Corpse Bride
-Splash
-Missing Link
-The Fall
-Border
-Nausicaä of the Valley of the Wind
-Only Lovers Left Alive
-Snow White and the Seven Dwarfs
-Paddington 2
-Hellboy
-Chitty Chitty Bang Bang
-Popeye
-Kung Fu Panda 3
-Over the Hedge
-Despicable Me 2
-Stranger Than Fiction
-The Imaginarium of Doctor Parnassus
-Dogma
-Extra Ordinary
-The Good Dinosaur
-Mystery Men
+The Nightmare Before Christmas
 Freaky Friday
 Castle in the Sky
 Holy Motors
@@ -158,18 +123,143 @@ Cinderella
 Kung Fu Panda 2
 Kiki's Delivery Service
 Anastasia
+Monsters University
+Addams Family Values
+Pleasantville
 Kung Fu Hustle
 Stuart Little
+The Illusionist
+Wreck-It Ralph
+Big
+Chitty Chitty Bang Bang
+Into the Woods
+My Neighbor Totoro
+Batman Returns
+The Jungle Book
+Zathura: A Space Adventure
+Peter Pan
 Peter Pan
 Shadow
 Alice in Wonderland
+Bridge to Terabithia
+The Tree of Life
 Sleeping Beauty
 Peggy Sue Got Married
 How to Train Your Dragon 2
 I Lost My Body
 The Spiderwick Chronicles
+Popeye
+Kung Fu Panda 3
+Over the Hedge
+Despicable Me 2
+Stranger Than Fiction
+Elf
+The Dark Crystal
+Cloudy with a Chance of Meatballs
+Young Sherlock Holmes
+ParaNorman
+He Never Died
+Shaolin Soccer
+FernGully: The Last Rainforest
+Cat People
+The Rescuers Down Under
+Song of the Sea
+Looney Tunes: Back in Action
+Pinocchio
+The Witches of Eastwick
+Tigers Are Not Afraid
+The Last Unicorn
+The Rescuers
+The Secret World of Arrietty
+The Gift
+A Midsummer Night's Dream
+Wes Craven's New Nightmare
+The Sword in the Stone
+The Cat Returns
+Pete's Dragon
+The Polar Express
+The Monster Squad
+Waking Life
+Flushed Away
+The Kid Who Would Be King
+The Vast of Night
+The Woman in Black
+Beasts of the Southern Wild
+Phantom of the Paradise
+A Little Princess
+Innerspace
+South Park: Bigger, Longer & Uncut
+Once Bitten
+Anna and the Apocalypse
+Pom Poko
+The Monster
+The Fisher King
+Hellboy II: The Golden Army
+Dead Man
+Ghost Town
+On Body and Soul
+Wristcutters: A Love Story
+Defending Your Life
+Uncle Boonmee Who Can Recall His Past Lives
+Jabberwocky
+Brewster McCloud
+Ookami kodomo no Ame to Yuki
+Puss in Boots
+A Shaun the Sheep Movie: Farmageddon
+Journey to the West
+The Three Caballeros
+The Tale of The Princess Kaguya
+I Kill Giants
+Valhalla Rising
+Charlotte's Web
+Ginger Snaps
+Thirst
+Horton Hears a Who!
+Happy as Lazzaro
+Babe: Pig in the City
+Porco Rosso
+The Secret of NIMH
+The SpongeBob SquarePants Movie
+Thelma
+Kubo and the Two Strings
+Fantasia
+Where the Wild Things Are
+20,000 Leagues Under the Sea
+The Double Life of Véronique
+Promare
+The Serpent and the Rainbow
+Camelot
+Cult of Chucky
 The BFG
 The Book of Life
+Wallace & Gromit: The Curse of the Were-Rabbit
+Tale of Tales
+Chances Are
+Early Man
+Nine Days
+The Secret of Kells
+A Dark Song
+Lady in White
+Before I Wake
+Orlando
+Shaun the Sheep Movie
+L.A. Story
+Stuart Little 2
+The Boy Who Could Fly
+The Mermaid
+Tuck Everlasting
+Mirai
+The Science of Sleep
+November
+The Purple Rose of Cairo
+Le Petit Prince
+Trollhunter
+Tokyo!
+The Lure
+Arachnophobia
+All of Me
+The Boxtrolls
+Lupin the 3rd: Castle of Cagliostro
 The Secret Garden
 Monster House
 Wings of Desire
@@ -183,60 +273,137 @@ Ruby Sparks
 Paprika
 Dragonslayer
 1408
-Elf
-The Dark Crystal
-Cloudy with a Chance of Meatballs
-Song of the Sea
-Looney Tunes: Back in Action
-Pinocchio
-The Witches of Eastwick
-Tigers Are Not Afraid
-The Rescuers
-The Secret World of Arrietty
-The Gift
-The Fisher King
-Hellboy II: The Golden Army
-Dead Man
-Ghost Town
-The SpongeBob SquarePants Movie
-Thelma
-Kubo and the Two Strings
-Fantasia
-Where the Wild Things Are
-20,000 Leagues Under the Sea
-The Double Life of Véronique
-Before I Wake
-The Sword in the Stone
-The Cat Returns
-Pete's Dragon
-The Polar Express
-The Monster Squad
-Waking Life
-Flushed Away
-The Kid Who Would Be King
-The Vast of Night
-The Woman in Black
-Phantom of the Paradise
-A Little Princess
-Innerspace
-The Tale of The Princess Kaguya
-I Kill Giants
-Valhalla Rising
-Charlotte's Web
-Ginger Snaps
-Thirst
-Horton Hears a Who!
-Happy as Lazzaro
-Babe: Pig in the City
-Porco Rosso
-The Secret of NIMH
-FernGully: The Last Rainforest
-Cat People
-The Rescuers Down Under
+Maquia: When the Promised Flower Blooms
+Ernest & Celestine
+Mary and the Witch's Flower
+The Red Turtle
+Russian Ark
+The Water Horse
+Shrek 2
+Juliet of the Spirits
+En duva satt på en gren och funderade på tillvaron
+Crouching Tiger, Hidden Dragon
+Let Me In
+A Ghost Story
+Yellow Submarine
+Time Bandits
+Corpse Bride
+Splash
+Missing Link
+The Fall
+Beauty and the Beast
+Prevenge
+La Danza de la Realidad
+The SpongeBob Movie: Sponge Out of Water
+The One I Love
+The City of Lost Children
+Border
+Nausicaä of the Valley of the Wind
+Only Lovers Left Alive
+Snow White and the Seven Dwarfs
+Paddington 2
+Hellboy
+Teen Titans Go! To the Movies
+Heaven Can Wait
+Blackbeard's Ghost
+We Are the Flesh
+Blue My Mind
+The Golden Voyage of Sinbad
+Diary of the Dead
+Closet Monster
+Belladonna of Sadness
+It's Such a Beautiful Day
+The Spirit of the Beehive
+Millennium Actress
+Le tout nouveau testament
+White God
+Arthur Christmas
+Pooh's Heffalump Movie
+Steamboy
+Face to Face
+Faust
+Black Orpheus
+Répertoire des villes disparues
+Endless Poetry
+Rare Exports
+After Life
+The Last Wave
+Witching and Bitching
+The Changeover
+On the Silver Globe
+Looking for Eric
+Slice
+Zombi Child
+Vampire Hunter D: Bloodlust
+The Boy and the Beast
+L'illusionniste
+Forbidden Zone
+Fun and Fancy Free
+The Muppet Christmas Carol
+You Go to My Head
+Big Fish & Begonia
+The Adventures of Ichabod and Mr. Toad
+Truly Madly Deeply
+Di renjie: Tong tian di guo
+Spiral
+Diamantino
+Sakasama no Patema
+Blancanieves
+The Night Is Short, Walk on Girl
+Air Doll
+The Future
+Unidentified Flying Oddball
+Adieu au langage
+Donkey Skin
+La Flor
+The Juniper Tree
+Mighty Joe Young
+Tropical Malady
+Mind Game
+The Wild Boys
+Good Manners
+Otesánek
+Cha no aji
 A Midsummer Night's Dream
-Wes Craven's New Nightmare
-Orlando
-Tuck Everlasting
-Le Petit Prince
-Trollhunter
-Arachnophobia
+Jauja
+Momo e no tegami
+Contracorriente
+Demon
+Lu Over the Wall
+Into the West
+Lancelot of the Lake
+The Wild Thornberrys
+Slack Bay
+Pandora and the Flying Dutchman
+Okko's Inn
+Panique au village
+These Are the Damned
+Monster Hunt 2
+Liz and the Blue Bird
+Die Wand
+Ray Meets Helen
+Bird People
+Life, Animated
+Tales from the Gimli Hospital
+Relaxer
+Teacher's Pet
+Barbe bleue
+Saturday Church
+O Estranho Caso de Angélica
+Slash
+Le Pont du Nord
+Le tableau
+Northfork
+Girl Asleep
+Sicilian Ghost Story
+Incident at Loch Ness
+Marwencol
+Twilight of the Ice Nymphs
+Pengin haiwei
+The Big Bad Fox and Other Tales
+Shan zhong zhuan qi
+Brand Upon the Brain! A Remembrance in 12 Chapters
+Le chat du rabbin
+The Girl Without Hands
+The King and the Mockingbird
+Phantom Boy

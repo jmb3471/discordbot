@@ -10,67 +10,6 @@ Snowpiercer
 Thor: Ragnarok
 Captain America: The First Avenger
 Rogue One: A Star Wars Story
-Star Wars: Episode VII - The Force Awakens
-Avengers: Infinity War
-Solo: A Star Wars Story
-Deadpool 2
-The Matrix
-Star Wars: Episode III - Revenge of the Sith
-Star Wars: Episode V - The Empire Strikes Back
-Guardians of the Galaxy
-Ready Player One
-Blade Runner 2049
-Guardians of the Galaxy Vol. 2
-Spider-Man: Far from Home
-Mad Max: Fury Road
-Black Panther
-Captain Marvel
-The Hunger Games
-The Prestige
-Jurassic Park
-Iron Man
-Spider-Man: Homecoming
-Alien
-Ex Machina
-Spider-Man: Into the Spider-Verse
-Avengers: Age of Ultron
-Captain America: Civil War
-The Avengers
-Iron Man Three
-Ad Astra
-The Martian
-A Quiet Place
-2001: A Space Odyssey
-Avatar
-Deadpool
-Annihilation
-Eternal Sunshine of the Spotless Mind
-Her
-Spider-Man
-Aliens
-Blade Runner
-Wonder Woman
-Vivarium
-Doctor Strange
-A Clockwork Orange
-Color Out of Space
-Arrival
-Logan
-Captain America: The Winter Soldier
-12 Monkeys
-The Truman Show
-Donnie Darko
-Galaxy Quest
-Terminator 2: Judgment Day
-Edge of Tomorrow
-Alien: Covenant
-Ant-Man
-Super 8
-The Incredible Hulk
-Star Trek Beyond
-The Lobster
-The Terminator
-Prometheus
 X-Men
 Star Trek
 Okja
@@ -89,6 +28,92 @@ Zombieland
 E.T. the Extra-Terrestrial
 The Amazing Spider-Man
 Incredibles 2
+Évolution
+Diary of the Dead
+Stake Land
+Kaboom
+Horror Express
+Ghost in the Shell 2: Innocence
+Logan
+Captain America: The Winter Soldier
+12 Monkeys
+The Truman Show
+Donnie Darko
+Galaxy Quest
+The Man with Two Brains
+Terminator 2: Judgment Day
+Edge of Tomorrow
+Alien: Covenant
+Ant-Man
+Super 8
+The Incredible Hulk
+Star Trek Beyond
+The Lobster
+The Terminator
+Prometheus
+The Brother from Another Planet
+Robot & Frank
+Welt am Draht
+Poison
+Trancers
+The Survivalist
+Escape from the Planet of the Apes
+The Host
+Godzilla
+WALL·E
+Close Encounters of the Third Kind
+Freaks
+Superman
+X-Men: Days of Future Past
+Cocoon
+Coherence
+Source Code
+The Hunger Games: Mockingjay - Part 1
+Mr. Nobody
+Face/Off
+Moonraker
+Possessor
+Sky High
+Frankenstein
+RoboCop
+The Hunger Games: Mockingjay - Part 2
+Melancholia
+Mad Max
+War of the Worlds
+Moon
+Idiocracy
+Contact
+10 Cloverfield Lane
+Light of My Life
+Banshee Chapter
+Memory: The Origins of Alien
+Village of the Damned
+Brazil
+District 9
+Big Hero 6
+I Am Mother
+Vampire Hunter D: Bloodlust
+The Congress
+Sound of My Voice
+Last and First Men
+Serenity
+Midnight Special
+A.I. Artificial Intelligence
+The Rocketeer
+Elysium
+The Powerpuff Girls Movie
+Birdboy: The Forgotten Children
+The Wild Blue Yonder
+Zathura: A Space Adventure
+The Bad Batch
+Marjorie Prime
+April and the Extraordinary World
+Solaris
+Lilo & Stitch
+Cube
+1984
+Superman Returns
+Battle Royale
 Lucy
 Children of Men
 Spider-Man 2
@@ -101,54 +126,57 @@ I Am Legend
 Bumblebee
 X: First Class
 28 Days Later...
+On the Silver Globe
 War for the Planet of the Apes
 Star Trek Into Darkness
 Escape from New York
-WALL·E
-Close Encounters of the Third Kind
-Freaks
-Frankenstein
-RoboCop
-The Hunger Games: Mockingjay - Part 2
-Melancholia
-Mad Max
-War of the Worlds
-Moon
-Idiocracy
-Contact
-10 Cloverfield Lane
-Light of My Life
-Brazil
-District 9
-Big Hero 6
-I Am Mother
-The Host
-Godzilla
-Superman
-X-Men: Days of Future Past
-Cocoon
-Coherence
-Source Code
-The Hunger Games: Mockingjay - Part 1
-Mr. Nobody
-Face/Off
-Moonraker
-Possessor
-Sky High
-Serenity
-Midnight Special
-A.I. Artificial Intelligence
-The Rocketeer
-Elysium
-Zathura: A Space Adventure
-The Bad Batch
+Krrish
 Cloverfield
+Grabbers
+Black Sheep
+The Endless
+Never Let Me Go
+Sleight
+The Wolverine
+The Faculty
+Dawn of the Planet of the Apes
+Downsizing
+Hot Tub Time Machine
+Bacurau
+Cities of Last Things
+Phantasm
+Fido
+The Visitor
+Universal Soldier: Regeneration
 Alien: Resurrection
 The Fly
 Chronicle
 Mad Max 2: The Road Warrior
 Pacific Rim
 Planet of the Apes
+The Dead Zone
+High-Rise
+Spy Kids
+REC
+These Are the Damned
+Monster Hunt 2
+Cargo
+Despicable Me 2
+Rise of the Planet of the Apes
+Ghost in the Shell
+The Girl with All the Gifts
+Time Bandits
+My Hero Academia: Heroes Rising
+The World's End
+Before We Vanish
+Mystery Men
+Primer
+Castle in the Sky
+The Hitchhiker's Guide to the Galaxy
+Nausicaä of the Valley of the Wind
+28 Weeks Later
+Megamind
+WarGames
 Isle of Dogs
 Sorry to Bother You
 Splice
@@ -160,46 +188,16 @@ Dark City
 The Abyss
 Terminator 3: Rise of the Machines
 Gattaca
+Star Trek II: The Wrath of Khan
+Soylent Green
 X2: X-Men United
 Flight of the Navigator
 Little Shop of Horrors
-Solaris
-Lilo & Stitch
-Cube
-1984
-Superman Returns
-Battle Royale
-The Endless
-Never Let Me Go
-The Wolverine
-The Faculty
-Dawn of the Planet of the Apes
-Downsizing
-Rise of the Planet of the Apes
-Ghost in the Shell
-The Girl with All the Gifts
-Time Bandits
-My Hero Academia: Heroes Rising
-The World's End
-The Hitchhiker's Guide to the Galaxy
-Nausicaä of the Valley of the Wind
-28 Weeks Later
-Megamind
-WarGames
-Hot Tub Time Machine
-Bacurau
-Phantasm
-The Dead Zone
-High-Rise
-Spy Kids
-REC
-Cargo
-Despicable Me 2
-Mystery Men
-Primer
-Castle in the Sky
-Star Trek II: The Wrath of Khan
-Soylent Green
+Project X
+The Manhattan Project
+Mænd & høns
+Mystery Science Theater 3000: The Movie
+Divine Love
 The Manchurian Candidate
 Robots
 Prospect
@@ -207,15 +205,6 @@ The Return of the Living Dead
 Another Earth
 Pi
 The Iron Giant
-Aniara
-The Last Starfighter
-Strange Days
-Slither
-eXistenZ
-Invasion of the Body Snatchers
-The Adventures of Buckaroo Banzai Across the 8th Dimension
-Colossal
-Paprika
 Mad Max Beyond Thunderdome
 Real Genius
 Re-Animator
@@ -225,18 +214,12 @@ Cloudy with a Chance of Meatballs
 Timecrimes
 Looney Tunes: Back in Action
 Superman II
-Frequency
-Star Trek VI: The Undiscovered Country
-A Scanner Darkly
-Hellboy II: The Golden Army
-THX 1138
-Monsters
-Solaris
-The Void
-20,000 Leagues Under the Sea
-Star Trek: Insurrection
-Meet the Robinsons
-The Time Machine
+Diamantino
+Xi yang tian shi
+The Signal
+Mighty Joe Young
+Metropolis
+Marooned
 Repo Man
 The Vast of Night
 King Kong
@@ -245,3 +228,140 @@ The Man Who Fell to Earth
 Spring
 Land of the Dead
 The Secret of NIMH
+Teacher's Pet
+Frequency
+Star Trek VI: The Undiscovered Country
+A Scanner Darkly
+Hellboy II: The Golden Army
+THX 1138
+Monsters
+Solaris
+The Void
+Steamboy
+Incident at Loch Ness
+Earth Girls Are Easy
+Sakasama no Patema
+Shin Godzilla
+Star Trek IV: The Voyage Home
+Attack the Block
+Darkman
+Starman
+20,000 Leagues Under the Sea
+Star Trek: Insurrection
+Meet the Robinsons
+Iceman
+The Time Machine
+Europa Report
+Transit
+Big Man Japan
+Seconds
+The Bride of Frankenstein
+Star Wars: Episode VII - The Force Awakens
+Avengers: Infinity War
+Solo: A Star Wars Story
+Deadpool 2
+The Matrix
+Star Wars: Episode III - Revenge of the Sith
+Star Wars: Episode V - The Empire Strikes Back
+Guardians of the Galaxy
+Ready Player One
+Blade Runner 2049
+Guardians of the Galaxy Vol. 2
+Spider-Man: Far from Home
+Frankenweenie
+Upstream Color
+Z for Zachariah
+Time After Time
+A Shaun the Sheep Movie: Farmageddon
+Threads
+Hard to Be a God
+The Double
+Sky Captain and the World of Tomorrow
+Mad Max: Fury Road
+Black Panther
+Captain Marvel
+The Hunger Games
+The Prestige
+Jurassic Park
+Iron Man
+Spider-Man: Homecoming
+Alien
+The Invisible Man
+Blue Thunder
+The One I Love
+The City of Lost Children
+The Rover
+Slaughterhouse-Five
+The War of the Worlds
+Cowboy Bebop: The Movie
+Invasion of the Body Snatchers
+The Bay
+Ex Machina
+Spider-Man: Into the Spider-Verse
+Avengers: Age of Ultron
+Captain America: Civil War
+The Avengers
+Iron Man Three
+Teen Titans Go! To the Movies
+2046
+Ad Astra
+The Martian
+A Quiet Place
+2001: A Space Odyssey
+Avatar
+Deadpool
+Annihilation
+Eternal Sunshine of the Spotless Mind
+Her
+Spider-Man
+Aliens
+Blade Runner
+Wonder Woman
+Vivarium
+Doctor Strange
+Fast Color
+See You Yesterday
+Wallace & Gromit: The Curse of the Were-Rabbit
+District B13
+Spy Kids 2: Island of Lost Dreams
+Dark Star
+Save the Green Planet!
+Piranha
+A Clockwork Orange
+Color Out of Space
+Arrival
+The Brood
+A Boy and His Dog
+Gojira
+Dreamscape
+Jimmy Neutron: Boy Genius
+Synchronic
+The Strongest Man in the World
+Fantastic Voyage
+Night of the Creeps
+Promare
+Unidentified Flying Oddball
+Monkey Shines
+Cheech and Chong's Next Movie
+Sleeper
+Until the End of the World
+The Fury
+Alligator
+Aniara
+The Last Starfighter
+Strange Days
+Kairo
+These Final Hours
+Summer Wars
+Slither
+eXistenZ
+Invasion of the Body Snatchers
+The Adventures of Buckaroo Banzai Across the 8th Dimension
+Colossal
+Paprika
+The Untamed
+Jonathan
+The Crazies
+Body Snatchers
+The Absent Minded Professor
+Starfish
