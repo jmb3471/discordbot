@@ -24,5 +24,7 @@ for genre in genres:
         movieContainers = page_html.find_all('div', class_ = 'lister-item mode-advanced')
 
         for container in movieContainers:
-            writeFile.write(container.h3.a.text + "\n")
+
+            if container.find('div', class_ = 'ratings-metascore') is not None:
+                writeFile.write(container.h3.a.text + "\n")
     writeFile.close()

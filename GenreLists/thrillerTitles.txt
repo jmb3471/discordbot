@@ -1,207 +1,85 @@
 Extraction
-Outer Banks
-Ozark
-Money Heist
-Into the Night
-Breaking Bad
 Dangerous Lies
-Waco
-The Walking Dead
-Homeland
-Defending Jacob
-Killing Eve
-The Blacklist
-Penny Dreadful: City of Angels
-Supernatural
-Stranger Things
 Parasite
 The Lodge
-Criminal Minds
-Dark
-Black Mirror
 The Platform
-Medici
 Knives Out
-Lovecraft Country
-The Wire
-Prison Break
 Joker
-How to Get Away with Murder
-Law & Order: Special Victims Unit
-Lost
-American Horror Story
 Bad Boys For Life
-Reckoning
-NCIS
-Fargo
-The Vampire Diaries
 Den of Thieves
-9-1-1
-The Handmaid's Tale
 Fantasy Island
-Devs
 Arkansas
-Fauda
-Tenet
-Sons of Anarchy
-Chernobyl
-True Detective
 Midsommar
-Agents of S.H.I.E.L.D.
 Hustlers
-Sherlock
-Chicago P.D.
 Code 8
-Blindspot
 Contagion
-Dexter
 The Invisible Man
-Blue Bloods
-Snowpiercer
-Mr. Robot
-Van der Valk
-Narcos
 Uncut Gems
 Interstellar
-True Blood
-Mindhunter
-The Expanse
 Underwater
-Elite
 Inception
 The Dark Knight
-Run
-Altered Carbon
-Vis a vis
-The Outsider
-You
-Jack Ryan
-The Mentalist
 Gretel & Hansel
 The Hunt
 6 Underground
-Designated Survivor
-No Time to Die
-The X-Files
-Locke & Key
 Se7en
-Death in Paradise
-The Haunting of Hill House
-Station 19
-Inheritance
-The Sinner
-The Stranger
-Gotham
-The Man in the High Castle
 Spenser Confidential
-Line of Duty
-Blood
 Doctor Sleep
 Mission: Impossible - Fallout
-Fear the Walking Dead
 Blade Runner 2049
-Justified
 Hereditary
 The Silence of the Lambs
 Dunkirk
 Angel Has Fallen
-Daredevil
-Teen Wolf
 The Departed
-Person of Interest
-Twin Peaks
-Motherland: Fort Salem
 Mad Max: Fury Road
-Prodigal Son
 The Shape of Water
-The Americans
-S.W.A.T.
-Fringe
 The Hunger Games
-Taboo
 The Prestige
-Law & Order
 The Killing of a Sacred Deer
 Jurassic Park
 Shutter Island
 Gone Girl
 John Wick
 John Wick: Chapter 3 - Parabellum
-Strike Back
-The Stand at Paxton County
 Ex Machina
-The Punisher
 Léon: The Professional
-CSI: Crime Scene Investigation
 The Usual Suspects
 Prisoners
-Columbo
-Hannibal
-Bloodline
 No Country for Old Men
 The Rhythm Section
-Chilling Adventures of Sabrina
-The Plot Against America
-Poirot
 Ad Astra
 Ready or Not
 Rambo: Last Blood
-A Quiet Place Part II
 Alita: Battle Angel
 Get Out
 I See You
-F9
-Bodyguard
-Caliphate
 Fifty Shades of Grey
-24
 Underworld
-Veronica Mars
-Kingdom
-Carnival Row
-Luther
 Baby Driver
-Banshee
-The Invisible Guest
-Halloween Kills
 21 Bridges
-Godzilla vs. Kong
 The Hateful Eight
 Annihilation
 Stuber
-Pretty Little Liars
 Triple Frontier
 Jaws
-The Conjuring: The Devil Made Me Do It
 Kill Bill: Vol. 1
 Memento
 The Nice Guys
-Castle Rock
 Us
-Spooks
 Aliens
-Revenge
 Room
 Ocean's 8
-Sense8
 Blade Runner
 Heat
 Zodiac
-Heroes
 Bad Boys
-Homecoming
 Venom
-Babylon Berlin
 Sicario
-Queen of the South
-The End of the F***ing World
 The Sixth Sense
-Baaghi 3
 The Fast and the Furious
 Ocean's Eleven
 A Simple Favor
-FBI
-Cardinal
 Arrival
 Reservoir Dogs
 Eyes Wide Shut
@@ -209,73 +87,48 @@ The Town
 Demolition Man
 Psycho
 Oldboy
-Jessica Jones
-Asur: Welcome to Your Dark Side
 The Place Beyond the Pines
-The Twilight Zone
 Sinister
-Servant
 Logan
 Night Hunter
 Captain America: The Winter Soldier
 Bad Times at the El Royale
 Train to Busan
-Baptiste
 Anna
 Twister
-A Serbian Film
 The Girl with the Dragon Tattoo
 12 Monkeys
 Furious 7
-The Fall
 Dark Waters
 The Perfect Storm
 Predator
-Scandal
 Donnie Darko
-Sharp Objects
-Our Girl
 The Meg
-The Society
-The King's Man
 Starship Troopers
-Legion
-Twin Peaks
 Casino Royale
 Jason Bourne
 Mulholland Dr.
-Bates Motel
 Skyfall
-Into the Dark
 Apocalypto
 Road to Perdition
 The Fate of the Furious
 Alien: Covenant
 Nightcrawler
 Black Swan
-Gomorra: La serie
 The Conjuring
 The Imitation Game
 Cowboys & Aliens
 The Invitation
-Lincoln Rhyme: Hunt for the Bone Collector
 True Romance
-The Last Ship
 Fifty Shades Freed
 Super 8
 Kingsman: The Secret Service
-The Shield
-Mirage
 Suspiria
 The Untouchables
 Spectre
 The Rock
-The Act
 Clue
-Get In
 Mystic River
-Mayans M.C.
-Angel
 xXx: Return of Xander Cage
 The Fast and the Furious: Tokyo Drift
 Good Time
@@ -287,36 +140,26 @@ Sicario: Day of the Soldado
 The Handmaiden
 Fargo
 Bright
-Travelers
 The Last Thing He Wanted
-Demon Slayer: Kimetsu No Yaiba
-JoJo's Bizarre Adventure
 Under the Skin
 Training Day
 The Others
 San Andreas
 Polar
 Minority Report
-Death Note
 Die Hard
 Kill Bill: Vol. 2
-Final Fantasy VII Remake
 Darkest Hour
 Gemini Man
 Upgrade
 Extremely Wicked, Shockingly Evil and Vile
-Avatar 2
 The Predator
 The Mummy
 GoldenEye
 Fractured
-CSI: Miami
-Oz
 Sin City
 Under the Silver Lake
 Mortal Kombat
-Top Boy
-Venom: Let There Be Carnage
 G.I. Joe: The Rise of Cobra
 Ma
 Nocturnal Animals
@@ -325,51 +168,37 @@ Geostorm
 Passengers
 National Treasure
 Basic Instinct
-Messiah
-Dreamkatcher
 Split
 Escape from Pretoria
 Zero Dark Thirty
 Four Brothers
 Argo
-The Killing
 V for Vendetta
-Vis a vis: El oasis
-Leverage
 Enemy
 Shirley
-Happy!
 Mandy
-Another Life
 Lost Girls
 The Hunger Games: Catching Fire
 Legend
 Now You See Me
-Naruto
 Knock Knock
-JAG
-The Last of Us: Part II
 Lucy
 Outbreak
 Escape Room
 The Neon Demon
 Children of Men
 Primal Fear
-Toy Boy
 13 Hours
 Jack Reacher
 The Highwaymen
 Looper
-Mystery Road
 Bad Boys II
 Romeo Must Die
 Gravity
 Cape Fear
 Furious 6
-The Terror
 The Informer
 The Lives of Others
-Bron/Broen
 The Lincoln Lawyer
 Armageddon
 Inferno
@@ -380,60 +209,44 @@ Hannibal
 Taken
 Red Dragon
 Maze Runner: The Death Cure
-Sacred Games
 Predestination
 American Assassin
 Brahms: The Boy II
-Top of the Lake
 I Am Legend
 Hell or High Water
 Swallow
 Serenity
-Jurassic World: Dominion
 The Accountant
 2 Fast 2 Furious
 Commando
 28 Days Later...
 Wild Things
 The Fugitive
-The Valhalla Murders
-Burn Notice
 Hot Fuzz
 Scary Stories to Tell in the Dark
-Warehouse 13
 Climax
 War for the Planet of the Apes
 Irréversible
 Ocean's Twelve
 Fast Five
 Run All Night
-Death Proof
 Mission: Impossible - Rogue Nation
 Rear Window
 Fast & Furious
 Gerald's Game
 Kingsman: The Golden Circle
-Special OPS
-Lethal Weapon
 The Equalizer
 RED
 Misery
-11.22.63
 Blue Velvet
-The Twilight Zone
-The Legacy of the Bones
 Memories of Murder
 The Conversation
 The Report
-Spider-Man 4: Fan Film
 Red Sparrow
 A Few Good Men
 L.A. Confidential
-Project Blue Book
 The Twilight Saga: Breaking Dawn - Part 1
-Cold Case
 Ocean's Thirteen
-Snake Eyes: G.I. Joe Origins
 Hunter Killer
 Mortal Engines
 1BR
@@ -441,26 +254,18 @@ Wind River
 The Nun
 Wanted
 Vertigo
-Z
 On the Waterfront
-Mr. Mercedes
-The Night Manager
 The Devil's Advocate
 2 Guns
 Dogtooth
-Tell Me a Story
 Cold Pursuit
 Point Break
 Mission: Impossible II
 Don't Breathe
 The Next Three Days
 Disturbia
-Deadly Mile High Club
-Law & Order: Criminal Intent
 Miss Peregrine's Home for Peculiar Children
-Scorpion
 Collateral
-Mortal Kombat
 Freaks
 The Raid: Redemption
 Chinatown
@@ -471,14 +276,12 @@ Deep Impact
 The Gift
 The Maze Runner
 Near Dark
-Counterpart
 Sherlock Holmes
 Mission: Impossible III
 Crawl
 Crash
 In the Shadow of the Moon
 Blood Diamond
-The Nest
 Mission: Impossible
 Criminal
 Mile 22
@@ -487,16 +290,11 @@ In Time
 The Bourne Identity
 Match Point
 RoboCop
-Ashes to Ashes
 The Hunger Games: Mockingjay - Part 2
-Bulletproof
 Event Horizon
-Giri/Haji
 Ghost in the Shell
 The Impossible
-12 Monkeys
 The Counselor
-The Victims' Game
 Quantum of Solace
 Jackie Brown
 In the Tall Grass
@@ -507,95 +305,65 @@ The Da Vinci Code
 The Machinist
 Hangman
 War of the Worlds
-Insatiable
-The Purge
 The Warriors
 The Hunt for Red October
 Man on Fire
-The Forever Purge
 Mission: Impossible - Ghost Protocol
 Halloween
-Absentia
 Idiocracy
 Contact
 The Mule
 10 Cloverfield Lane
 The Game
 Das Boot
-The Silence of the Marsh
 Goldfinger
 Light of My Life
 The Core
 District 9
 Annabelle Comes Home
 I Am Mother
-Gansin
-Miami Vice
 Faster
-The Rain
-The Occupant
 Les Misérables
 Signs
-Haven
 Dr. No
 G.I. Joe: Retaliation
 Clear and Present Danger
-The Decline
-NYPD Blue
 The Equalizer 2
 Ophelia
-One Day: Justice Delivered
 In Bruges
 Total Recall
-Truth Be Told
 Fracture
 Godzilla
 On Her Majesty's Secret Service
 Insidious
-Time to Hunt
-Liar
 The Secret in Their Eyes
-Reprisal
 Friday the 13th
-Fortitude
 Apostle
-The Stand
 47 Meters Down: Uncaged
 Air Force One
 The Descent
-Wynonna Earp
 The Foreigner
-The Plagues of Breslau
-It
 X-Men: Days of Future Past
 Limitless
 Underworld: Evolution
 Official Secrets
 The Island
-The Strain
-The Capture
 The Talented Mr. Ripley
-Luke Cage
-Scream: The TV Series
 Killing Them Softly
 Shot Caller
-Çukur
 Body of Lies
 RocknRolla
 Skyscraper
 Olympus Has Fallen
-Morbius
 The Company You Keep
 White House Down
 Robin Hood
 The Butterfly Effect
 Unknown
-Operation Brothers
 Peppermint
 The Ritual
 The Great Escape
 The Phantom of the Opera
-Lie to Me
 Dog Day Afternoon
 The Circle
 Hotel Mumbai
@@ -608,33 +376,24 @@ The Hunger Games: Mockingjay - Part 1
 Dragged Across Concrete
 Extraction
 Sin City: A Dame to Kill For
-Mirzapur
 Face/Off
-What/If
 Live and Let Die
 The Italian Job
-Red Notice
-Evil
 Revenge
 Tomb Raider
 True Lies
 Widows
 Moonraker
 Tinker Tailor Soldier Spy
-Barnaby Jones
 Friday the 13th
 Crimson Peak
 Possessor
 Green Room
 Serenity
 Black Book
-Dragon Ball Z
-Zoo
 Truth or Dare
 Midnight Special
-Beastars
 The World Is Not Enough
-Spiral
 Hanna
 Flight
 Dante's Peak
@@ -648,12 +407,9 @@ The Lovely Bones
 The Hurt Locker
 The Tourist
 The 5th Wave
-Black Spot
 Orphan
 I Saw the Devil
 Lost Highway
-Guardians of the Galaxy Vol. 3
-Akira
 The Count of Monte Cristo
 Oldboy
 It Follows
@@ -662,12 +418,9 @@ Black and Blue
 American Gangster
 Searching
 Pet Sematary
-The Last of Us
-Paan Singh Tomar
 Munich
 The Bourne Supremacy
 The Skin I Live In
-Nikita
 House of Wax
 The Conjuring 2
 Relatos salvajes
@@ -675,39 +428,28 @@ Homefront
 Christine
 The Nightingale
 Die Another Day
-Escape Room
 The Silence
 Identity
 Sleepers
 Deliverance
 Grand Isle
-Grand Theft Auto V
 What Happened to Monday
 Law Abiding Citizen
 A Good Woman Is Hard to Find
 Dick Tracy
 Extinction
-Catch-22
 Ronin
 The Cold Light of Day
-Under the Dome
-Psycho
 Salt
 The Ninth Gate
-Quantico
 Panic Room
-Daybreak
-Most Dangerous Game
-CSI: NY
 Smokin' Aces
 The Perfection
 You Only Live Twice
 Terminator Genisys
 The Autopsy of Jane Doe
-Alias
 Candyman
 The Beach
-Becoming
 Monsters vs. Aliens
 Cloverfield
 The Snowman
@@ -720,7 +462,6 @@ Final Destination
 Backdraft
 Chronicle
 Countdown
-Candyman
 Hush
 Non-Stop
 Haunt
@@ -730,26 +471,18 @@ The Expendables
 The Purge
 From Russia with Love
 The Mummy Returns
-Earth and Blood
 Charlie's Angels
-Alias Grace
-Sword Art Online
 We Summon the Darkness
 Road House
 The Wailing
 The Curse of La Llorona
 Insomnia
 Charade
-Black Clover
 Escape Plan
-C.B. Strike
 Angels & Demons
-Andhadhun
 The Book of Eli
-Roswell
 The Good Liar
 High Life
-Cowboy Bebop
 Everest
 A Time to Kill
 Captive State
@@ -761,49 +494,37 @@ Beverly Hills Cop
 Sleepless
 Sunshine
 Manhunter
-McMafia
 The Commuter
 Vanilla Sky
 Unbreakable
-Antebellum
 Blood Father
 Allied
 A Bigger Splash
 Carlito's Way
-Triangle
 Sleeping Beauty
 The Mask of Zorro
 Coraline
-Briarpatch
 The Chronicles of Riddick
 Midnight Run
 The Craft
-Carriers
 The Girl with the Dragon Tattoo
 Unfaithful
-The Secrets She Keeps
 Blackhat
-The Following
 Leviathan
 Hellraiser
 Dark City
-Damages
 The Boondock Saints
 The Abyss
 The Art of Self-Defense
-In the Heat of the Night
 The Postcard Killings
 The Getaway
 Gattaca
 Bastille Day
 The Expendables 2
 Species
-Dare Me
 The Expendables 3
 Patriots Day
 The Village
-Circle
-A Perfect Plan
 I Spit on Your Grave
 All the Money in the World
 Alpha Dog
@@ -816,69 +537,47 @@ Escape from Alcatraz
 Sinister 2
 Maze Runner: The Scorch Trials
 The Visit
-StartUp
 The Day After Tomorrow
 Bridge of Spies
-Hemlock Grove
-The Invisible Guardian
 X2: X-Men United
 Hold the Dark
 Ghost
 Wild at Heart
 Riddick
 What Lies Beneath
-The Promised Neverland
 Monster
-Deep State
-The Pale Horse
 Deepwater Horizon
 Gangster Squad
 Knowing
 Allegiant
 The Bourne Legacy
-Collateral
 Child's Play
 The Three Musketeers
 The Boy
-Becky
 Gone Baby Gone
 Jurassic Park III
 An Officer and a Spy
-Doom: Annihilation
 Three Days of the Condor
 The Cloverfield Paradox
 Rush Hour
 Poltergeist
 Equilibrium
-The Practice
 Cube
 Sherlock Holmes: A Game of Shadows
-Limitless
 The Bodyguard
 Red Riding Hood
-Tin Star
 Tomorrow Never Dies
 Traffic
-Condor
-Wayward Pines
-The Body
-Numb3rs
-Before We Die
 Byzantium
-Vault
 The Drop
 I Am Number Four
 Goodnight Mommy
 Operation Finale
-Last Night in Soho
 How It Ends
 Thir13en Ghosts
-Senke nad Balkanom
 Monos
-Dark Matter
 Battle Royale
 Michael Clayton
-City on a Hill
 The Last Boy Scout
 Fatal Attraction
 Insurgent
@@ -889,17 +588,13 @@ The Raid 2
 Thunderball
 For Your Eyes Only
 The Endless
-Beauty and the Beast
 The Rainmaker
 Rambo
 The Man with the Golden Gun
 Captain Phillips
-Escape Plan: The Extractors
 Red Dawn
-Riviera
 The Mummy: Tomb of the Dragon Emperor
 Child 44
-Dublin Murders
 In the Line of Fire
 Burn After Reading
 Alien vs. Predator
@@ -910,24 +605,18 @@ A Cure for Wellness
 The Adjustment Bureau
 Armed Response
 The Beguiled
-Breathe
 The Family
 Noah
 Odd Thomas
 Deep Blue Sea
 Nerve
 RoboCop
-Dark Shadows
 Grindhouse
 Thoroughbreds
-3%
 A View to a Kill
 Con Air
 Twin Peaks: Fire Walk with Me
-Deep Water
 Mute
-And Then There Were None
-The House on the Hill
 Rambo: First Blood Part II
 Savages
 Serpico
@@ -936,21 +625,15 @@ Seberg
 Rise of the Planet of the Apes
 Haywire
 21
-The Man with the Iron Heart
-Anjaam Pathiraa
 Snowden
-Gold Digger
 Ghost in the Shell
 Ghost Rider
-Awoken
 Inside Man
 The Girl with All the Gifts
 Planet of the Apes
 The French Connection
 U.S. Marshals
 Diamonds Are Forever
-Planet Terror
-Tajkun
 Jack Reacher: Never Go Back
 The Happening
 Amores Perros
@@ -958,42 +641,27 @@ The Poison Rose
 Die Hard 2
 The Illusionist
 The Cell
-Salvation
 Velvet Buzzsaw
 Once Upon a Time in Mexico
-Medium
 Margin Call
 Wounds
 The 'Burbs
-Talvar
-Army of the Dead
-New Tricks
 Patriot Games
 Red Eye
 The Punisher
 Let Me In
 Death Wish
-Woman of Straw
 Jaws 2
 Kiss Kiss Bang Bang
-John Wick: Chapter 4
-Malang
 A Most Wanted Man
 Race to Witch Mountain
 Hotel Artemis
-Raatchasan
 Resident Evil: Apocalypse
 The Great Wall
 Chappie
 The Intruder
 Bleeding Steel
-Texas Chainsaw 3D
-Harrow
 Lights Out
-Spectral
-The Tomorrow War
-Above the Rim
-The Vanishing
 Safe House
 Original Sin
 JFK

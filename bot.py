@@ -29,7 +29,11 @@ async def on_message(message):
     parts = message.content.split()
     horrorMovies = MovieLists.ReadFromFile("horrorTitles.txt")
     if(parts[0] == "!horror"):
-        await message.channel.send(horrorMovies)
+        horrorMovies = MovieLists.ReadFromFile("MovieLists/horrorTitles.txt")
+        randomNum = random.randint(0, len(horrorMovies))
+        await message.channel.send(horrorMovies[randomNum])
+        await message.channel.send(horrorMovies[randomNum + 1])
+        await message.channel.send(horrorMovies[randomNum + 2])
     elif(parts[0] == "!add"):
         try:
             print(parts[1] + "list.txt")
@@ -55,6 +59,5 @@ async def on_message(message):
         writeFile = open(str(parts[1]) + "list.txt", "w")
         writeFile.write("\n" + parts[2])
         writeFile.close()
-
 
 client.run(auth.TOKEN)
