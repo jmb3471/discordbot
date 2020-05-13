@@ -58,6 +58,8 @@ async def on_message(message):
         await  message.channel.send("!genre - Picks a random movie from a given genre. Genres include sci-fi, animation, action, comedy, adventure, fantasy, thriller, horror, mystery and drama")
         await  message.channel.send("!add (movie title) - Adds a movie to the given list")
         await  message.channel.send("!create (list name) - Creates a list with the given name")
+        await  message.channel.send("!(list name) - picks movie if the given list exist")
+
     elif(parts[0] == "!add"):
         try:
             print(parts[1] + "list.txt")
@@ -68,19 +70,15 @@ async def on_message(message):
                     newMovie += parts[i] + " "
                 else:
                     newMovie += parts[i]
-            MovieLists.WriteToFile("Jonathanlist.txt", newMovie)
+            MovieLists.WriteToFile(parts[1] + "list.txt", newMovie)
 
         except IOError:
-            await message.channel.send("List doesn't exist")
+            await message.channel.send("Create your own personal list first")
 
     elif(parts[0] == "!create"):
         writeFile = open(str(parts[1]) + "list.txt", "w")
         writeFile.close()
         print("Done")
 
-    elif(parts[0] == "!addto"):
-        writeFile = open(str(parts[1]) + "list.txt", "w")
-        writeFile.write("\n" + parts[2])
-        writeFile.close()
 
 client.run(auth.TOKEN)
