@@ -10,6 +10,16 @@ from os import path
 
 SERVER = "Sam's Simp Army"
 client = discord.Client()
+genres = ["sci-fi",
+          "animation",
+          "action",
+          "comedy",
+          "adventure",
+          "fantasy",
+          "thriller",
+          "horror",
+          "mystery",
+          "drama"]
 
 @client.event
 async def on_ready():
@@ -27,16 +37,18 @@ async def on_message(message):
     if message.author == client.user:
         return
     parts = message.content.split()
-    if(parts[0] == "!horror"):
-        horrorMovies = MovieLists.ReadFromFile("GenreLists/horrorTitles.txt")
-        randomNum = random.randint(0, len(horrorMovies))
-        await message.channel.send(horrorMovies[randomNum])
-        await message.channel.send(horrorMovies[randomNum + 1])
-        await message.channel.send(horrorMovies[randomNum + 2])
-    elif(parts[0] == "!add"):
+    #Checks if the user is looking for a movie of a specific genre
+    for genre in genres:
+        if parts[0] == "!" + genre:
+            movieList = MovieLists.ReadFromFile("GenreLists/" + genre + "Titles.txt")
+            randomNum = random.randint(0, len(movieList) - 1)
+            await message.channel.send(movieList[randomNum])
+            await message.channel.send(movieList[randomNum + 1])
+            await message.channel.send(movieList[randomNum + 2])
+
+    if(parts[0] == "!add"):
         try:
             print(parts[1] + "list.txt")
-            print("herro?")
 
             newMovie = ""
             for i in range(2, len(parts)):
