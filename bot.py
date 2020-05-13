@@ -32,9 +32,8 @@ async def on_message(message):
         await message.channel.send(horrorMovies)
     elif(parts[0] == "!add"):
         try:
-            writeFile = open(str(parts[1]) + "list.txt")
-            writeFile.write("\n" + parts[2])
-            writeFile.close()
+            print(parts[1] + "list.txt")
+            print("herro?")
 
             newMovie = ""
             for i in range(2, len(parts)):
@@ -42,7 +41,8 @@ async def on_message(message):
                     newMovie += parts[i] + " "
                 else:
                     newMovie += parts[i]
-            MovieLists.WriteToFile(str(parts[1]) + "list.txt", newMovie)
+            MovieLists.WriteToFile("Jonathanlist.txt", newMovie)
+
         except IOError:
             await message.channel.send("List doesn't exist")
 
