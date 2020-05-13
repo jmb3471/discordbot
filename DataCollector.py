@@ -25,9 +25,6 @@ for genre in genres:
 
         for container in movieContainers:
 
-            if container.strong.text is not None:
-                print(container.strong.text)
-                rating = float(container.strong.text)
-                if rating > 6.0:
-                    writeFile.write(container.h3.a.text + "\n")
+            if container.find('div', class_ = 'ratings-metascore') is not None:
+                writeFile.write(container.h3.a.text + "\n")
     writeFile.close()

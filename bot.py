@@ -60,6 +60,4 @@ async def on_message(message):
         writeFile.write("\n" + parts[2])
         writeFile.close()
 
->>>>>>> cf3945938c9bcdf0241e384a8b4ff6a9b7a2b11c
-
 client.run(auth.TOKEN)
