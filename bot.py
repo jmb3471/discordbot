@@ -36,7 +36,9 @@ async def on_member_join(member):
 async def on_message(message):
     if message.author == client.user:
         return
-    parts = message.content.split()
+
+	content = message.content.toLowerCase()
+    parts = content.split()
     #Checks if the user is looking for a movie of a specific genre
     for genre in genres:
         if parts[0] == "!" + genre:
