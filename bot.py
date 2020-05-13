@@ -47,7 +47,11 @@ async def on_message(message):
             await message.channel.send(movieList[randomNum])
             await message.channel.send(movieList[randomNum + 1])
             await message.channel.send(movieList[randomNum + 2])
-
+    if parts[0] == "!help":
+        await  message.channel.send("Here are my commands:")
+        await  message.channel.send("!genre - Picks a random movie from a given genre. Genres include sci-fi, animation, action, comedy, adventure, fantasy, thriller, horror, mystery and drama")
+        await  message.channel.send("!add (movie title) - Adds a movie to the given list")
+        await  message.channel.send("!create (list name) - Creates a list with the given name")
     if(parts[0] == "!add"):
         try:
             print(parts[1] + "list.txt")
