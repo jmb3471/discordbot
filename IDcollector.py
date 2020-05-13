@@ -3,7 +3,7 @@ import requests
 import auth
 
 URL_START = "http://www.omdbapi.com/?t="
-URL_END = "&plot=full&apikey=" + auth.API_KEY
+URL_END = "&plot=short&apikey=" + auth.API_KEY
 
 def getID(title):
 	movieFile = getJSONFile(title)
@@ -11,7 +11,10 @@ def getID(title):
 
 def getDirector(title):
 	movieFile = getJSONFile(title)
-	return movieFile["Director"]
+	try:
+		return movieFile["Director"]
+	except KeyError:
+		return "None"
 
 def getIMDBRating(title):
 	movieFile = getJSONFile(title)

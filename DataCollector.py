@@ -1,10 +1,7 @@
 from requests import get
 from bs4 import BeautifulSoup
-from warnings import warn
-from time import sleep
 from random import randint
 import threading
-import concurrent.futures
 import numpy as np
 
 pages = np.arange(1, 4951, 50)

@@ -42,8 +42,8 @@ async def on_message(message):
     content = message.content.lower()
     parts = content.split()
     filename = parts[0]
-    filename = filename[1:]
-    if (path.exists(filename)):
+    filename = filename[0:]
+    if path.exists(filename):
         mylist = MovieLists.ReadFromFile(filename)
         randomNum = random.randint(0, len(mylist) - 1)
         await message.channel.send(mylist[randomNum])
@@ -59,30 +59,29 @@ async def on_message(message):
                                            + ":thought_balloon:**Description**: " + IDcollector.getPlot(movieTitle) + "\n" + IMDB_URL_START + IDcollector.getID(movieTitle) + IMDB_URL_END + "\n")
     if parts[0] == "!help":
         await  message.channel.send("Here are my commands:")
-        await  message.channel.send("!genre - Picks a random movie from a given genre. Genres include sci-fi, animation, action, comedy, adventure, fantasy, thriller, horror, mystery and drama")
+        await  message.channel.send("!(genre) - Picks a random movie from a given genre. Genres include sci-fi, animation, action, comedy, adventure, fantasy, thriller, horror, mystery and drama")
         await  message.channel.send("!add (movie title) - Adds a movie to the given list")
         await  message.channel.send("!create (list name) - Creates a list with the given name")
-        await  message.channel.send("!(list name) - picks movie if the given list exist")
+        await  message.channel.send("!(list name) - picks movie from the given list")
 
-    elif(parts[0] == "!add"):
+    elif parts[0] == "!add":
         try:
             print(parts[1] + "list.txt")
 
-            newMovie = ""
+            new_movie = ""
             for i in range(2, len(parts)):
-                if i < len(parts) - 1:
-                    newMovie += parts[i] + " "
+                if i < len(parts):
+                    new_movie += parts[i] + " "
                 else:
-                    newMovie += parts[i]
-            MovieLists.WriteToFile(parts[1] + "list.txt", newMovie)
+                    new_movie += parts[i]
+            MovieLists.WriteToFile(parts[1] + "list.txt", new_movie)
 
         except IOError:
             await message.channel.send("Create your own personal list first")
 
-    elif(parts[0] == "!create"):
-        writeFile = open(str(parts[1]) + "list.txt", "w")
-        writeFile.close()
-        print("Done")
+    elif parts[0] == "!create":
+        writefile = open(str(parts[1]) + "list.txt", "w")
+        writefile.close()
 
 
 client.run(auth.TOKEN)

@@ -9,7 +9,8 @@ def ReadFromFile(fileName):
         Movie_files.close()
         return horror_movies
 
-def WriteToFile(fileName, movieName):
-        writeFile = open(fileName, "a")
-        writeFile.write("\n" + movieName)
-        writeFile.close()
+
+def WriteToFile(filename, moviename):
+        writefile = open(filename, "a")
+        writefile.write("\n" + moviename)
+        writefile.close()
