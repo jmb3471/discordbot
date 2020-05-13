@@ -80,7 +80,7 @@ async def on_message(message):
             await message.channel.send("Create your own personal list first")
 
     elif parts[0] == "!create":
-        writefile = open(str(parts[1]) + "list.txt", "w")
+        writefile = open("PersonalLists/" + str(parts[1]) + "list.txt", "w")
         writefile.close()
 
 
