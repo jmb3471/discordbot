@@ -6,9 +6,14 @@ URL_START = "http://www.omdbapi.com/?t="
 URL_END = "&apikey=" + auth.API_KEY
 
 def getByName(name):
-	json = get(URL_START + name + URL_END)
+	nameParts = name.split()
+	url_Title = ""
+	for i in range(0, len(nameParts)):
+		url_Title += nameParts[i]
+		if i <= len(nameParts) - 1:
+			url_Title += "+"
+	response = requests.get(URL_START + url_Title + URL_END)
+	dict = response.json()
+	print(dict)
 
-	dict = json.loads(json)
-	print(dict["id"])
-
-	return dict["id"]
+	return dict["imdbID"]

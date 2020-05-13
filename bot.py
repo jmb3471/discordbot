@@ -5,6 +5,7 @@ import random
 import MovieLists
 import auth
 import os.path
+import IDcollector
 from os import path
 URL = "http://www.omdbapi.com/?apikey=" + auth.API_KEY + "&"
 IMDB_URL_START = "https://www.imdb.com/title/"
@@ -52,11 +53,10 @@ async def on_message(message):
         if parts[0] == "!" + genre:
             movieList = MovieLists.ReadFromFile("GenreLists/" + genre + "Titles.txt")
             randomNum = random.randint(0, len(movieList) - 1)
-            await message.channel.send(movieList[randomNum])
-            id = 1
-            await message.channel.send(IMDB_URL_START + id + IMDB_URL_END)
-            await message.channel.send(movieList[randomNum + 1])
-            await message.channel.send(movieList[randomNum + 2])
+            for i in range(1, 4):
+                movieTitle = movieList[randomNum + i]
+                await message.channel.send(movieList[randomNum + i])
+                await  message.channel.send(IMDB_URL_START + IDcollector.getByName(movieTitle) + IMDB_URL_END)
     if parts[0] == "!help":
         await  message.channel.send("Here are my commands:")
         await  message.channel.send("!genre - Picks a random movie from a given genre. Genres include sci-fi, animation, action, comedy, adventure, fantasy, thriller, horror, mystery and drama")
