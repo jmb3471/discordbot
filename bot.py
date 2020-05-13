@@ -54,6 +54,8 @@ async def on_message(message):
             movieList = MovieLists.ReadFromFile("GenreLists/" + genre + "Titles.txt")
             randomNum = random.randint(0, len(movieList) - 1)
             await message.channel.send(movieList[randomNum])
+            id = 1
+            await message.channel.send(IMDB_URL_START + id + IMDB_URL_END)
             await message.channel.send(movieList[randomNum + 1])
             await message.channel.send(movieList[randomNum + 2])
     if parts[0] == "!help":
