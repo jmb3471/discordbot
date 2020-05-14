@@ -54,5 +54,4 @@ def getJSONFile(title):
 			url_Title += "+"
 	response = requests.get(URL_START + url_Title + URL_END)
 	dict = response.json()
-	print(dict)
 	return dict
