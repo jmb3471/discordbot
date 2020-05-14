@@ -1,5 +1,5 @@
 import json
-import requests
+from requests import get
 import auth
 
 URL_START = "http://www.omdbapi.com/?t="

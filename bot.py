@@ -43,11 +43,13 @@ async def on_message(message):
     parts = content.split()
     filename = parts[0]
     filename = filename[0:]
-    if path.exists(filename):
-        mylist = MovieLists.ReadFromFile(filename)
-        randomNum = random.randint(0, len(mylist) - 1)
-        await message.channel.send(mylist[randomNum])
-
+    if parts[0] == "!myList":
+        if path.exists(message.author + "list.txt"):
+            mylist = MovieLists.ReadFromFile(filename)
+            randomNum = random.randint(0, len(mylist) - 1)
+            await message.channel.send(mylist[randomNum])
+        else:
+            await message.channel.send("You have nothing in your list")
     #Checks if the user is looking for a movie of a specific genre
     for genre in genres:
         if parts[0] == "!" + genre:
@@ -66,22 +68,26 @@ async def on_message(message):
 
     elif parts[0] == "!add":
         try:
-            print(parts[1] + "list.txt")
-
             new_movie = ""
-            for i in range(2, len(parts)):
+            for i in range(1, len(parts)):
+                if i < len(parts):
+                    new_movie += parts[i] + " "
+                else:
+                    new_movie += parts[i]
+            MovieLists.WriteToFile(message.author + "list.txt", new_movie)
+
+        except IOError:
+            writefile = open("PersonalLists/" + message.author + "list.txt", "w")
+            new_movie = ""
+            for i in range(1, len(parts)):
                 if i < len(parts):
                     new_movie += parts[i] + " "
                 else:
                     new_movie += parts[i]
             MovieLists.WriteToFile(parts[1] + "list.txt", new_movie)
+            writefile.close()
+            await message.channel.send("Your list is created")
 
-        except IOError:
-            await message.channel.send("Create your own personal list first")
-
-    elif parts[0] == "!create":
-        writefile = open("PersonalLists/" + str(parts[1]) + "list.txt", "w")
-        writefile.close()
 
 
 client.run(auth.TOKEN)
