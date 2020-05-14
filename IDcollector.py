@@ -19,6 +19,9 @@ def getDirector(title):
 	except KeyError:
 		return "None"
 
+def getimdbVotes(title):
+	return getJSONFile(title)["imdbVotes"]
+
 def getIMDBRating(title):
 	movieFile = getJSONFile(title)
 	try:

@@ -3,8 +3,9 @@ from bs4 import BeautifulSoup
 from random import randint
 import threading
 import numpy as np
+import IDcollector
 
-pages = np.arange(1, 4951, 50)
+pages = np.arange(1, 951, 50)
 threads = []
 genre_Threads = []
 genres = ["sci-fi",
@@ -28,15 +29,19 @@ def collect_info(type, page_num, write_file):
     movie_containers = page_html.find_all('div', class_='lister-item mode-advanced')
 
     for container in movie_containers:
-        if container.find('div', class_='ratings-metascore') is not None:
-            rating = int(container.find('span', class_='metascore').text)
-            if rating > 60:
+        rating = IDcollector.getIMDBRating(container.h3.a.text)
+        if rating != "N/A":
+            rating = float(rating)
+            votes = IDcollector.getimdbVotes(container.h3.a.text)
+            votes = votes.replace(',', '')
+            votes = int(votes)
+            if rating > 7.0 and votes > 25000:
                 write_file.write(container.h3.a.text + "\n")
 
 
 #Creates a thread for each page and runs the above method
 def get_genre_info(genre_search):
-    writefile = open("GenreLists/" + str(genre_search) + "Titles.txt", "w")
+    writefile = open("GenreLists/" + str(genre_search) + "Titles.txt", "a")
     for page in pages:
         threads.append(threading.Thread(target=collect_info, args=(genre_search, page, writefile)))
         threads[len(threads) - 1].start()
@@ -48,14 +53,16 @@ def get_genre_info(genre_search):
 #Ran out of threads so we have to do 4 at a time for genres
 
 def rundata():
-    for i in range(0, 4):
+    for i in range(0, len(genres)):
         genre_Threads.append(threading.Thread(target=get_genre_info, args=(genres[i],)))
         genre_Threads[len(genre_Threads) - 1].start()
     for genre_Thread in genre_Threads:
         genre_Thread.join()
-    for i in range(4, len(genres) - 1):
+    '''for i in range(5, len(genres)):
         genre_Threads.append(threading.Thread(target=get_genre_info, args=(genres[i],)))
         genre_Threads[len(genre_Threads) - 1].start()
     for genre_Thread in genre_Threads:
-        genre_Thread.join()
-    get_genre_info(genres[len(genres) - 1])
+        genre_Thread.join()'''
+
+
+rundata()

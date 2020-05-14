@@ -1,3 +1,4 @@
+import os
 
 def ReadFromFile(fileName):
         Movie_files = open(fileName, "r")
@@ -12,5 +13,8 @@ def ReadFromFile(fileName):
 
 def WriteToFile(filename, moviename):
         writefile = open(filename, "a")
-        writefile.write("\n" + moviename)
+        if os.path.getsize(filename) == 0:
+                writefile.write(moviename)
+        else:
+                writefile.write("\n" + moviename)
         writefile.close()

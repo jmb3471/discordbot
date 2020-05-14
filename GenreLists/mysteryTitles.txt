@@ -1,512 +1,58 @@
-Gretel & Hansel
-Se7en
-Knives Out
-Midsommar
-Blade Runner 2049
-Hereditary
-The Invisible Man
-The Lighthouse
-The Prestige
-The Killing of a Sacred Deer
-Shutter Island
-Gone Girl
-Ex Machina
-The Usual Suspects
-Prisoners
-Harry Potter and the Deathly Hallows: Part 2
-Apocalypse Now
-Harry Potter and the Goblet of Fire
-Ad Astra
-Ready or Not
-Get Out
-I See You
-The Green Mile
-Arrival
-Eyes Wide Shut
-Psycho
-Oldboy
-Dora and the Lost City of Gold
-Harry Potter and the Chamber of Secrets
-Zootopia
-The Girl with the Dragon Tattoo
-12 Monkeys
-Donnie Darko
-Harry Potter and the Order of the Phoenix
-Blow the Man Down
-Hail, Caesar!
-Mulholland Dr.
-Harry Potter and the Deathly Hallows: Part 1
-Mother!
-The Hateful Eight
-Annihilation
-Memento
-The Nice Guys
-The Conjuring
-The Invitation
-Super 8
-Harry Potter and the Half-Blood Prince
-Spirited Away
-Us
-The VVitch: A New-England Folktale
-Zodiac
-Sicario
-Coco
-Harry Potter and the Prisoner of Azkaban
-The Sixth Sense
-Vivarium
-A Simple Favor
-Game Night
-Suspiria
-The Negotiator
-Oculus
-Annabelle: Creation
-Bacurau
-The Autopsy of Jane Doe
-It Comes At Night
-Cloverfield
-The Bourne Ultimatum
-Anatomy of a Murder
-Jacob's Ladder
-Side Effects
-Rope
-Angel Heart
-REC
-Buried
-The Wailing
-Insomnia
-Charade
-Rebecca
-The Guest
-The Imaginarium of Doctor Parnassus
-Scream 2
-High Life
-The Birds
-Sleepy Hollow
-Holes
-Manhunter
-First Reformed
-Anastasia
-Double Indemnity
-Martha Marcy May Marlene
-The Vanishing
-Changeling
-Mystic River
-The Ballad of Buster Scruggs
-Sicario: Day of the Soldado
-Prometheus
-The Others
-Unbreakable
-The Girl with the Dragon Tattoo
-Dark City
-The Abyss
-Inherent Vice
-The Wicker Man
-Coherence
-Source Code
-The Art of Self-Defense
-Minority Report
-Atonement
-Enemy
-Mandy
-Who Framed Roger Rabbit
-Soylent Green
-Tinker Tailor Soldier Spy
-Crimson Peak
-Midnight Special
-North by Northwest
-It Follows
-Searching
-Paprika
-1408
-Lost Girls
-The Hunger Games: Catching Fire
-Scream
-The Bourne Supremacy
-The Conjuring 2
-Identity
-Salt
-Body Double
-You're Next
-The Ghost Writer
-Brick
-The Lives of Others
-Incendies
-Predestination
-A Perfect Getaway
-Darbareye Elly
-The Fugitive
-Hot Fuzz
-Scary Stories to Tell in the Dark
-Rear Window
-Blue Velvet
-Memories of Murder
-The Conversation
-L.A. Confidential
-Citizen Kane
-Wind River
-Vertigo
-Disturbia
-Freaks
-High Plains Drifter
-Tightrope
-Europa Report
-Muppets Most Wanted
-The Client
-Deep Red
-Timecrimes
-Murder by Death
-The Orphanage
-Glengarry Glen Ross
-Winter's Bone
-Everybody Knows
-Blow-Up
-All the Money in the World
-Hold the Dark
-Mississippi Burning
-The Long Goodbye
-Monster House
-Unsane
-Breakdown
-A Very Long Engagement
-The Little Stranger
-The Constant Gardener
-The Souvenir
-While We're Young
-Paranormal Activity
-In the Heat of the Night
-The Blackcoat's Daughter
-Gone Baby Gone
-Solaris
-Girl on the Third Floor
-Three Days of the Condor
-Cube
-Gosford Park
-Goodnight Mommy
-Michael Clayton
-The Endless
-We Need to Talk About Kevin
-Murder on the Orient Express
-No Way Out
-Ghost in the Shell
-Inside Man
-The Illusionist
-Velvet Buzzsaw
-The Blair Witch Project
-The Stranger
-Let Me In
-Kiss Kiss Bang Bang
-The Adventures of Tintin
-Tully
-Dressed to Kill
-Trance
-When Marnie Was There
-The Rescuers Down Under
-Sneakers
-Infernal Affairs
-Transsiberian
-Blow Out
-Sea of Love
-Alice, Sweet Alice
-Tell No One
-Department Q: The Keeper of Lost Causes
-The Falling
-The Hole in the Ground
-Broken Flowers
-Berlin Syndrome
-Long Day's Journey Into Night
-Hollywoodland
-The White Ribbon
-The Vast of Night
-Black Death
-I Am the Pretty Thing That Lives in the House
-The Limey
-Stir of Echoes
-Wes Craven's New Nightmare
-Swimming Pool
-3 Women
-A Shot in the Dark
-Talaash
-Three Colors: Red
-Wallace & Gromit: The Curse of the Were-Rabbit
-A Vigilante
-Joy Ride
-The Duke of Burgundy
-The Tale
-Presumed Innocent
-The Overnight
-Saint Maud
-Kill List
-Hustle
-The Limehouse Golem
-Chungking Express
-The Third Man
-The Manchurian Candidate
-Cam
-Three Identical Strangers
-Loving Vincent
-Tigers Are Not Afraid
-Luce
-Audition
-Rashômon
-Destroyer
-State of Play
-Marrowbone
-Pi
-The Pledge
-On Body and Soul
-The Interpreter
-A Tale of Two Sisters
-Disappearance at Clifton Hill
-Inland Empire
-The Gift
-American Woman
-Possum
-The Trouble with Harry
+The Twilight Zone
+Akira
+Maniac
 Frequency
-Atlantics
-Black Christmas
-The Sense of an Ending
-A Scanner Darkly
-Dolores Claiborne
-Fletch
-The Great Mouse Detective
-Ouija: Origin of Evil
-Frantic
-The Girl Who Played with Fire
-Talk to Her
-Chinatown
-Horse Girl
-The Gift
-You Were Never Really Here
-The Bourne Identity
-1922
-Catfish
-Solaris
-The Void
-Thelma
-Courage Under Fire
-Moon
-Contact
-10 Cloverfield Lane
-The Game
-I Am Mother
-Caché
-Out of Time
-Three Colors: Blue
-The Maltese Falcon
-The Return of the Pink Panther
-The Double Life of Véronique
-Picnic at Hanging Rock
-Veronica Mars
-The Secret in Their Eyes
-Apostle
-Burning
-Personal Shopper
-Doubt
-Hugo
-Missing
-Six Degrees of Separation
-A Dark Song
-The Last Exorcism
-Reversal of Fortune
-The One I Love
-We Have Always Lived in the Castle
-Out Stealing Horses
-Buster's Mal Heart
-Death and the Maiden
-Borgman
-Kairo
-Lady in White
-Resolution
-Revenge of the Pink Panther
-Suspicion
-In the Valley of Elah
-The Double
-Sky Captain and the World of Tomorrow
-Department Q: The Absent One
-Lone Star
-The Dead Center
-Evil Under the Sun
-My Cousin Rachel
-Beast
-Julieta
-Young Sherlock Holmes
-Tell Me Who I Am
-Spider
-Proof
-The Great Muppet Caper
-Blood Work
-ParaNorman
-Honeymoon
-Gemini
-The Innkeepers
-Tickled
-The American Friend
-Night Moves
-True Crime
-A Field in England
-Piercing
-Kaboom
-Closet Monster
-Clockers
-Housebound
-Devil in a Blue Dress
-Welt am Draht
-Cutter's Way
-The Family Fang
-The Club
-Dark River
-Le passé
-Small Town Crime
-Knife + Heart
-Werckmeister harmóniák
-11:14
-Dead Again
-Road Games
-Grand Piano
-Ondine
-Wonderstruck
-Mr. Holmes
-Russian Ark
-Tom à la ferme
-You Go to My Head
-Sound of My Voice
-Cloak & Dagger
-Faust
-Farewell, My Lovely
-Enigma
-The Thin Blue Line
-In Fear
-The Fallen Idol
-Share
-Affliction
-The Three Burials of Melquiades Estrada
-The Spanish Prisoner
-The Unknown Girl
 Waltz with Bashir
-Red Road
-The Last Wave
-The Killers
-Luz
-The Third Murder
-Hallam Foe
-London Road
-The Cat o' Nine Tails
-Dans la maison
-The Dead Girl
-Paranoid Park
-Cure
-Don't Leave Home
-Bunny Lake Is Missing
-The Hospital
-We Are Still Here
-A Soldier's Story
-Napszállta
-Get Low
-Pit and the Pendulum
-Marjorie Prime
-April and the Extraordinary World
-Gwen
-Enduring Love
-Eyewitness
-La Flor
-Nancy
-The Gingerbread Man
-Di renjie: Tong tian di guo
-Madeline's Madeline
-Innocence
-The Barbarian Invasions
-Willow Creek
-Mænd & høns
-Queen of Earth
-Sometimes Always Never
-Lu Bian Ye Can
-Nothing But the Truth
-Dead Men Don't Wear Plaid
-Évolution
-Narc
-The Forbidden Room
-Bai ri yan huo
-The Harvest
-The Wild Boys
-Pokot
-Pooh's Heffalump Movie
-Rojo
-Bubble
-Experiment in Terror
-The Mighty Quinn
-Demonlover
-Wendigo
-Always Shine
-Keane
-The Ornithologist
-Fear X
-Poupoupidou
-Under the Tree
-Chaharshanbe-soori
-Gin gwai
-Lantana
-Midnighters
-I'm Not Scared
-Tales of Terror
-Shi gan
-La mujer sin cabeza
-Pandora and the Flying Dutchman
-Cropsey
-Wrecked
-The Nile Hilton Incident
-As You Are
-The Workshop
-Under the Sand
-Afterschool
-Le fils
-The Last Winter
-Piglet's Big Movie
-The Deep End
-Finding Vivian Maier
-Red Riding: The Year of Our Lord 1983
-Mistérios de Lisboa
-After Dark, My Sweet
-L'Humanité
-No Date, No Signature
-Kurîpî: Itsuwari no rinjin
-Die Wand
-The Reports on Sarah and Saleem
-Out 1, noli me tangere
-With a Friend Like Harry...
-Li'l Quinquin
-Operation Avalanche
-Hammett
-Last Passenger
-Jindabyne
-Jar City
-Walk on Water
-The Princess and the Warrior
-God Knows Where I Am
-Herod's Law
-San taam
-The Motel Life
-Brigham City
-The Royal Guard
-Le Pont du Nord
-Profile
-Krotkaya
-The Attack
-Dirty Wars
-Crime d'amour
-Siddhartha
-7 Boxes
-The Witness
-Sicilian Ghost Story
-Incident at Loch Ness
-Shan zhong zhuan qi
-Alexandra's Project
-Sun Don't Shine
-Twilight of the Ice Nymphs
-Never Here
-The Galapagos Affair: Satan Came to Eden
-Pengin haiwei
-The American Side
-Lemming
-Compromising Positions
-La doppia ora
+The Jacket
+Westworld
+Freaks
+Soylent Green
+Arrival
+The X-Files
+Cloud Atlas
+The Avengers
+Paprika
+Batman
+Life on Mars
+Stranger Things
+The Thing
+Dark
+Predestination
+The Twilight Zone
+Minority Report
+Death Note
+Serenity
+The 100
+Roswell
+Anatomy of a Murder
+12 Monkeys
+Lost
+Black Mirror: Bandersnatch
+Frequency
+The Thing
+12 Monkeys
+Over the Garden Wall
+DuckTales
+The Prestige
+The Birds
+Midsommar
+The Twilight Zone
+Contact
+Donnie Darko
+Cube
+10 Cloverfield Lane
+Black Christmas
+Star Trek
+Unbreakable
+The Invisible Man
+Anastasia
+A Scanner Darkly
+Death Note
+The Lighthouse
+Haven
+Ex Machina
+A Nightmare on Elm Street
+In the Heat of the Night
+Timecrimes
+In the Heat of the Night
+Suspiria
