@@ -75,6 +75,7 @@ async def on_message(message):
                 else:
                     new_movie += parts[i]
             MovieLists.WriteToFile(message.author + "list.txt", new_movie)
+            await message.channel.send(new_movie + " added to your list.")
 
         except IOError:
             writefile = open("PersonalLists/" + message.author + "list.txt", "w")
@@ -88,6 +89,6 @@ async def on_message(message):
             writefile.close()
             await message.channel.send("Your list is created")
 
-
-
+    else:
+        await message.channel.send("Command not recognized, use !help for a list of commands")
 client.run(auth.TOKEN)
