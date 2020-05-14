@@ -39,34 +39,46 @@ async def on_message(message):
     if message.author == client.user:
         return
 
-    content = message.content.lower()
-    parts = content.split()
+    parts = message.content.split()
     filename = parts[0]
     filename = filename[0:]
-    if parts[0] == "!myList":
-        if path.exists(message.author + "list.txt"):
-            mylist = MovieLists.ReadFromFile(filename)
-            randomNum = random.randint(0, len(mylist) - 1)
-            await message.channel.send(mylist[randomNum])
-        else:
-            await message.channel.send("You have nothing in your list")
+    command = parts[0].lower()
+
     #Checks if the user is looking for a movie of a specific genre
     for genre in genres:
-        if parts[0] == "!" + genre:
+        if command == "!" + genre:
             movieList = MovieLists.ReadFromFile("GenreLists/" + genre + "Titles.txt")
             randomNum = random.randint(0, len(movieList) - 1)
             for i in range(1, 4):
                 movieTitle = movieList[randomNum + i]
-                await message.channel.send(":clapper:**" + movieTitle+ "**"  + "\n**Director**: " + IDcollector.getDirector(movieTitle) + "\n" + "**IMDB Rating**: " + IDcollector.getIMDBRating(movieTitle) + "\n"
-                                           + ":thought_balloon:**Description**: " + IDcollector.getPlot(movieTitle) + "\n" + IMDB_URL_START + IDcollector.getID(movieTitle) + IMDB_URL_END + "\n")
-    if parts[0] == "!help":
+                bot_message = ":clapper:**" + movieTitle + "**" + "\n**Director**: " + IDcollector.getDirector(movieTitle) + "\n" + "**IMDB Rating**: " + IDcollector.getIMDBRating(movieTitle) + "\n"\
+                          + ":thought_balloon:**Description**: " + IDcollector.getPlot(movieTitle) + "\n"
+                if IDcollector.getID(movieTitle) != "N/A":
+                    bot_message += IMDB_URL_START + IDcollector.getID(movieTitle) + IMDB_URL_END + "\n"
+                await message.channel.send(bot_message)
+            return
+    if command == "!help":
         await  message.channel.send("Here are my commands:")
         await  message.channel.send("!(genre) - Picks a random movie from a given genre. Genres include sci-fi, animation, action, comedy, adventure, fantasy, thriller, horror, mystery and drama")
         await  message.channel.send("!add (movie title) - Adds a movie to the given list")
         await  message.channel.send("!create (list name) - Creates a list with the given name")
         await  message.channel.send("!(list name) - picks movie from the given list")
 
-    elif parts[0] == "!add":
+    elif command == "!mylist":
+        file_path = "PersonalLists/" + str(message.author) + "list.txt"
+        if path.exists(file_path):
+            mylist = MovieLists.ReadFromFile(file_path)
+            randomNum = random.randint(1, len(mylist) - 1)
+            movieTitle = mylist[randomNum]
+            bot_message = ":clapper:**" + movieTitle + "**" + "\n**Director**: " + IDcollector.getDirector(
+                movieTitle) + "\n" + "**IMDB Rating**: " + IDcollector.getIMDBRating(movieTitle) + "\n" \
+                          + ":thought_balloon:**Description**: " + IDcollector.getPlot(movieTitle) + "\n"
+            if IDcollector.getID(movieTitle) != "N/A":
+                bot_message += IMDB_URL_START + IDcollector.getID(movieTitle) + IMDB_URL_END + "\n"
+            await message.channel.send(bot_message)
+        else:
+            await message.channel.send("You have nothing in your list")
+    elif command == "!add":
         try:
             new_movie = ""
             for i in range(1, len(parts)):
@@ -74,7 +86,7 @@ async def on_message(message):
                     new_movie += parts[i] + " "
                 else:
                     new_movie += parts[i]
-            MovieLists.WriteToFile(message.author + "list.txt", new_movie)
+            MovieLists.WriteToFile("PersonalLists/" + str(message.author) + "list.txt", new_movie)
             await message.channel.send(new_movie + " added to your list.")
 
         except IOError:
