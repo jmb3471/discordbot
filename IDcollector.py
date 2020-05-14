@@ -1,6 +1,7 @@
 import json
 import requests
 import auth
+import random
 
 URL_START = "http://www.omdbapi.com/?t="
 URL_END = "&plot=short&apikey=" + auth.API_KEY
@@ -34,7 +35,14 @@ def getPlot(title):
 		return getJSONFile(title)["Plot"]
 	except KeyError:
 		return "N/A"
-
+def get_recommended(title):
+	try:
+		url = "https://api.themoviedb.org/3/movie/" + getID(title) + "/similar?api_key=" + auth.TMDB_API_KEY + "&language=en-US&page=1"
+		response = requests.get(url)
+		dict = response.json()
+		return random.choice(dict["results"])["title"]
+	except KeyError:
+		return "Unable to find recommendation"
 
 def getJSONFile(title):
 	title = title.replace('\'', '')
@@ -46,5 +54,5 @@ def getJSONFile(title):
 			url_Title += "+"
 	response = requests.get(URL_START + url_Title + URL_END)
 	dict = response.json()
-
+	print(dict)
 	return dict

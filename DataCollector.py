@@ -5,7 +5,7 @@ import threading
 import numpy as np
 import IDcollector
 
-pages = np.arange(1, 951, 50)
+pages = np.arange(1001, 1951, 50)
 threads = []
 genre_Threads = []
 genres = ["sci-fi",
@@ -29,19 +29,29 @@ def collect_info(type, page_num, write_file):
     movie_containers = page_html.find_all('div', class_='lister-item mode-advanced')
 
     for container in movie_containers:
-        rating = IDcollector.getIMDBRating(container.h3.a.text)
+        try:
+            rating = container.strong.text
+            rating = rating.replace(',', '')
+        except AttributeError:
+            rating = "N/A"
         if rating != "N/A":
             rating = float(rating)
-            votes = IDcollector.getimdbVotes(container.h3.a.text)
-            votes = votes.replace(',', '')
-            votes = int(votes)
+            try:
+                votes = container.find('span', attrs = {'name' : 'nv'})['data-value']
+                votes = votes.replace(',', '')
+                votes = int(votes)
+            except TypeError:
+                votes = 0
             if rating > 7.0 and votes > 25000:
                 write_file.write(container.h3.a.text + "\n")
 
 
 #Creates a thread for each page and runs the above method
 def get_genre_info(genre_search):
-    writefile = open("GenreLists/" + str(genre_search) + "Titles.txt", "a")
+    if pages[0] == 1:
+        writefile = open("GenreLists/" + str(genre_search) + "Titles.txt", "w")
+    else:
+        writefile = open("GenreLists/" + str(genre_search) + "Titles.txt", "a")
     for page in pages:
         threads.append(threading.Thread(target=collect_info, args=(genre_search, page, writefile)))
         threads[len(threads) - 1].start()

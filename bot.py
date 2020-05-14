@@ -86,6 +86,21 @@ async def on_message(message):
                     new_movie += parts[i]
             MovieLists.WriteToFile("PersonalLists/" + str(message.author) + "list.txt", new_movie)
             await message.channel.send(new_movie + " added to your list.")
+        elif command == "!recommended":
+            user_list = MovieLists.ReadFromFile("PersonalLists/" + str(message.author) + "list.txt")
+            base_movie = random.choice(user_list)
+            recommended_title = IDcollector.get_recommended(base_movie)
+            print(recommended_title)
+            if recommended_title != "Unable to find recommendation":
+                bot_message = ":clapper:**" + recommended_title + "**" + "\n**Director**: " + IDcollector.getDirector(
+                    recommended_title) + "\n" + "**IMDB Rating**: " + IDcollector.getIMDBRating(recommended_title) + "\n" \
+                            + ":thought_balloon:**Description**: " + IDcollector.getPlot(recommended_title) + "\n"
+                if IDcollector.getID(recommended_title) != "N/A":
+                    bot_message += IMDB_URL_START + IDcollector.getID(recommended_title) + IMDB_URL_END + "\n"
+                await message.channel.send(bot_message)
+            else:
+                await message.channel.send(recommended_title)
+
         else:
             await message.channel.send("Command not recognized, use !help for a list of commands")
 client.run(auth.TOKEN)

@@ -1,58 +1,395 @@
-The Twilight Zone
-Akira
-Maniac
-Frequency
-Waltz with Bashir
-The Jacket
-Westworld
-Freaks
-Soylent Green
-Arrival
+The Mentalist
+Designated Survivor
+The Originals
 The X-Files
-Cloud Atlas
-The Avengers
-Paprika
-Batman
-Life on Mars
+Se7en
+The Haunting of Hill House
+The Sinner
+The Stranger
+Gotham
+Line of Duty
+Avatar: The Last Airbender
+Blade Runner 2049
+Justified
+Hereditary
+Person of Interest
+Twin Peaks
+Desperate Housewives
+13 Reasons Why
+The Americans
+Fringe
+Taboo
+The Prestige
+Law & Order
+Shutter Island
+Gone Girl
+Harry Potter and the Goblet of Fire
+The Magicians
+Poirot
+Get Out
+The Green Mile
+Charmed
+Veronica Mars
+Carnival Row
+Watchmen
+Broadchurch
+Ex Machina
+Monk
+CSI: Crime Scene Investigation
+Castle
+The Usual Suspects
+Prisoners
+Columbo
+Hannibal
+The Leftovers
+Harry Potter and the Deathly Hallows: Part 2
+Apocalypse Now
+Luther
+Elementary
+Banshee
+The Invisible Guest
+White Collar
+The Hateful Eight
+Watchmen
+Lost in Space
+Chilling Adventures of Sabrina
+Pretty Little Liars
+Memento
+The Nice Guys
+Spirited Away
+Castle Rock
+American Gods
+Revenge
+Sense8
+Zodiac
+Sicario
+Coco
+Harry Potter and the Prisoner of Azkaban
+The Sixth Sense
+Westworld
+Money Heist
+Homeland
+The Blacklist
+Supernatural
 Stranger Things
-The Thing
+Criminal Minds
 Dark
-Predestination
+Knives Out
+The 100
+Prison Break
+How to Get Away with Murder
+Law & Order: Special Victims Unit
+Lost
+NCIS
+The Vampire Diaries
+The Witcher
+True Detective
+Midsommar
+House M.D.
+Sherlock
+Arrow
+Doctor Who
+Blindspot
+Dexter
+The Invisible Man
+Blue Bloods
+The Lighthouse
+Psych
+True Blood
+Bones
+The Expanse
+Big Little Lies
+Star Wars Rebels
+Star Trek: The Next Generation
+The Outsider
+Arrival
+The Good Wife
+Eyes Wide Shut
+Psycho
+Oldboy
 The Twilight Zone
+Harry Potter and the Chamber of Secrets
+Zootopia
+Bad Times at the El Royale
+The Girl with the Dragon Tattoo
+12 Monkeys
+Grimm
+Donnie Darko
+Sharp Objects
+Harry Potter and the Order of the Phoenix
+Twin Peaks
+Mulholland Dr.
+Bates Motel
+Harry Potter and the Deathly Hallows: Part 1
+A Series of Unfortunate Events
+Gravity Falls
+The Conjuring
+The Night Of
+The OA
+Harry Potter and the Half-Blood Prince
+Mirage
+Primal Fear
+Russian Doll
+The Lives of Others
+Bron/Broen
+Incendies
+Predestination
+Top of the Lake
+The Fugitive
+Burn Notice
+Hot Fuzz
+Warehouse 13
+Irréversible
+The Alienist
+Rear Window
+11.22.63
+Blue Velvet
+Memories of Murder
+The Conversation
+L.A. Confidential
+Citizen Kane
+Wind River
+Vertigo
+The Night Manager
+The Devil's Advocate
+Perfect Blue
+The Negotiator
+Torchwood
+Anatomy of a Murder
+The Fountain
+Jacob's Ladder
+Side Effects
+Sleepy Hollow
+Rope
+Code Geass: Lelouch of the Rebellion
+Utopia
+Who Am I - Kein System ist sicher
+Twin Peaks: Fire Walk with Me
+Angel Heart
+REC
+Rebecca
+Catfish
+And Then There Were None
+Murder on the Orient Express
+Da Vinci's Demons
+Ghost in the Shell
+Inside Man
+The Illusionist
+Caché
+Life
+Three Colors: Blue
+The Maltese Falcon
+Talvar
+Let Me In
+Kiss Kiss Bang Bang
+The Adventures of Tintin
+The Vanishing
+The Double Life of Véronique
+Picnic at Hanging Rock
+9
+Doubt
+The Hidden Face
+The Name of the Rose
+Dressed to Kill
+Jericho
+M
+First Reformed
+Over the Garden Wall
+Dark Angel
+Anastasia
+Witness for the Prosecution
+Double Indemnity
+Changeling
+Hemlock Grove
+Soylent Green
+Carnivàle
+Chungking Express
+To Catch a Thief
+Hugo
+Lie to Me
+Gone Baby Gone
+Solaris
+Three Days of the Condor
+The Third Man
+Black Mirror: Bandersnatch
+The Wicker Man
+Coherence
+Source Code
+Quantum Leap
+Tinker Tailor Soldier Spy
+Rizzoli & Isles
+Alias
+North by Northwest
+Lost Highway
+The Ring
+Searching
+The Bourne Supremacy
+Nikita
+The Conjuring 2
+Identity
+Grand Theft Auto V
+The Bourne Ultimatum
+The Wailing
+Insomnia
+Charade
+Cube
+Sherlock Holmes: A Game of Shadows
+Wayward Pines
+The Body
+American Vandal
+Gosford Park
+Dark Matter
+Michael Clayton
+Super Troopers
+We Need to Talk About Kevin
+Roswell
+The Best Offer
+The Birds
+Sleepy Hollow
+Manhunter
+Unbreakable
+Don't F**k with Cats: Hunting an Internet Killer
+The Girl with the Dragon Tattoo
+The Following
+Dark City
+Clue
+Mystic River
+The Ballad of Buster Scruggs
+Sicario: Day of the Soldado
+Travelers
+The Thing
+Audition
+Rashômon
+In the Mouth of Madness
+Covert Affairs
+The Others
 Minority Report
 Death Note
-Serenity
-The 100
-Roswell
-Anatomy of a Murder
+Preacher
+Atonement
+Messiah
+The Killing
+Leverage
+Happy!
+Who Framed Roger Rabbit
+The Hunger Games: Catching Fire
+Now You See Me
+Scream
+Safe
+State of Play
+The 4400
+Pi
+Damages
+The Abyss
+Chinatown
+Cloud Atlas
+Life on Mars
+Sherlock Holmes
+The Bourne Identity
+Forever
+Paprika
+The Ghost Writer
+Brimstone
+Saw
 12 Monkeys
-Lost
-Black Mirror: Bandersnatch
-Frequency
-The Thing
-12 Monkeys
-Over the Garden Wall
-DuckTales
-The Prestige
-The Birds
-Midsommar
-The Twilight Zone
+Moon
 Contact
-Donnie Darko
-Cube
 10 Cloverfield Lane
-Black Christmas
-Star Trek
-Unbreakable
-The Invisible Man
-Anastasia
-A Scanner Darkly
-Death Note
-The Lighthouse
+Brick
+Darbareye Elly
+The Game
+Dirk Gently's Holistic Detective Agency
 Haven
-Ex Machina
-A Nightmare on Elm Street
-In the Heat of the Night
+The Secret in Their Eyes
+Deep Red
 Timecrimes
+Murder by Death
+Tell No One
+Burning
+Scream Queens
+Scream: The TV Series
+Ghajini
+The Thirteenth Floor
+The Orphanage
+Dollhouse
+Glengarry Glen Ross
+Following
+Winter's Bone
+Blow-Up
+Lucky Number Slevin
+Mississippi Burning
+Pushing Daisies
+Loving Vincent
+Drishyam
+A Tale of Two Sisters
+Frequency
+Death on the Nile
+The Constant Gardener
 In the Heat of the Night
-Suspiria
+A Scanner Darkly
+High and Low
+The Girl Who Played with Fire
+Talk to Her
+Leyla and Mecnun
+High Plains Drifter
+Fainaru fantajî sebun adobento chirudoren
+A Very Long Engagement
+MythBusters
+The Cabinet of Dr. Caligari
+When Marnie Was There
+Open Your Eyes
+Sneakers
+Infernal Affairs
+24: Live Another Day
+Justice League
+The Great Mouse Detective
+The Lady from Shanghai
+Laura
+The Jacket
+The One I Love
+Wilfred
+Teenage Mutant Ninja Turtles
+Kyle XY
+The Trouble with Harry
+Spellbound
+Black Christmas
+Dolores Claiborne
+Shutter
+K-PAX
+Flashforward
+The Lost Room
+Le Samouraï
+Julieta
+Toki o kakeru shôjo
+Magnum Force
+The Red Violin
+Nothing But the Truth
+The Three Burials of Melquiades Estrada
+Waltz with Bashir
+Dans la maison
+A Wednesday
+Sleuth
+Touch
+La isla mínima
+The Lady Vanishes
+Lone Star
+Wallace & Gromit: The Curse of the Were-Rabbit
+Narc
+The Thin Man
+Diabolique
+Batman: Mask of the Phantasm
+Suspicion
+In the Valley of Elah
+Erufen rîto
+The 39 Steps
+Bored to Death
+Ringu
+Kahaani
+Death Note: Desu nôto
+Talaash
+The Salton Sea
+Manhattan Murder Mystery
+Batman: Arkham City
+Le passé
+Tesis
+11:14
