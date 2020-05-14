@@ -18,10 +18,15 @@ def getDirector(title):
 
 def getIMDBRating(title):
 	movieFile = getJSONFile(title)
-	return movieFile["imdbRating"]
+	try:
+		return movieFile["imdbRating"]
+	except KeyError:
+		return "N/A"
 
 def getPlot(title):
 	return getJSONFile(title)["Plot"]
+
+
 def getJSONFile(title):
 	title = title.replace('\'', '')
 	nameParts = title.split()

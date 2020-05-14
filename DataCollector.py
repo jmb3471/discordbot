@@ -46,14 +46,16 @@ def get_genre_info(genre_search):
 
 
 #Ran out of threads so we have to do 4 at a time for genres
-for i in range(0, 4):
-    genre_Threads.append(threading.Thread(target=get_genre_info, args=(genres[i],)))
-    genre_Threads[len(genre_Threads) - 1].start()
-for genre_Thread in genre_Threads:
-    genre_Thread.join()
-for i in range(4, len(genres) - 1):
-    genre_Threads.append(threading.Thread(target=get_genre_info, args=(genres[i],)))
-    genre_Threads[len(genre_Threads) - 1].start()
-for genre_Thread in genre_Threads:
-    genre_Thread.join()
-get_genre_info(genres[len(genres) - 1])
+
+def rundata():
+    for i in range(0, 4):
+        genre_Threads.append(threading.Thread(target=get_genre_info, args=(genres[i],)))
+        genre_Threads[len(genre_Threads) - 1].start()
+    for genre_Thread in genre_Threads:
+        genre_Thread.join()
+    for i in range(4, len(genres) - 1):
+        genre_Threads.append(threading.Thread(target=get_genre_info, args=(genres[i],)))
+        genre_Threads[len(genre_Threads) - 1].start()
+    for genre_Thread in genre_Threads:
+        genre_Thread.join()
+    get_genre_info(genres[len(genres) - 1])
