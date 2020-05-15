@@ -59,10 +59,11 @@ async def on_message(message):
                 return
         if command == "!help":
             await  message.channel.send("Here are my commands:")
-            await  message.channel.send("!(genre) - Picks a random movie from a given genre. Genres are sci-fi, animation, action, comedy, adventure, fantasy, thriller, horror, mystery and drama")
-            await  message.channel.send("!add (movie title) - Adds a movie to the given list")
-            await  message.channel.send("!myList - picks movie from your list")
-
+            await  message.channel.send("!(genre) - Picks a random movie from a given genre. Genres are sci-fi, animation, action, comedy, adventure, fantasy, thriller, horror, mystery and drama\n" +
+                                        "!add (movie title) - Adds a movie to your list\n" +
+                                        "!remove (movie title) - Removes a movie from your list\n" +
+                                        "!myList - picks movie from your list\n" +
+                                        "!recommended - recommends a movie based off the movies in your list")
         elif command == "!mylist":
             file_path = "PersonalLists/" + str(message.author) + "list.txt"
             if path.exists(file_path):
@@ -84,8 +85,11 @@ async def on_message(message):
                     new_movie += parts[i] + " "
                 else:
                     new_movie += parts[i]
-            MovieLists.WriteToFile("PersonalLists/" + str(message.author) + "list.txt", new_movie)
-            await message.channel.send(new_movie + " added to your list.")
+            if IDcollector.getID(new_movie) != "N/A":
+                MovieLists.WriteToFile("PersonalLists/" + str(message.author) + "list.txt", new_movie)
+                await message.channel.send(new_movie + " added to your list.")
+            else:
+                await  message.channel.send("Please enter a valid movie.")
         elif command == "!recommended":
             if path.exists("PersonalLists/" + str(message.author) + "list.txt"):
                 user_list = MovieLists.ReadFromFile("PersonalLists/" + str(message.author) + "list.txt")
@@ -99,7 +103,18 @@ async def on_message(message):
                 await message.channel.send(bot_message)
             else:
                 await message.channel.send("Add something to your list first with the !add command!")
-
+        elif command == "!remove":
+            movie_remove = ""
+            for i in range(1, len(parts)):
+                if i < len(parts) - 1:
+                    movie_remove += parts[i] + " "
+                else:
+                    movie_remove += parts[i]
+            if path.exists("PersonalLists/" + str(message.author) + "list.txt") and MovieLists.check_if_file_contains("PersonalLists/" + str(message.author) + "list.txt", movie_remove + "\n"):
+                MovieLists.delete_from_file("PersonalLists/" + str(message.author) + "list.txt", movie_remove + "\n")
+                await message.channel.send("Removed " + movie_remove + " from your list.")
+            else:
+                await  message.channel.send("Your list is empty or does not contain that movie.")
         else:
             await message.channel.send("Command not recognized, use !help for a list of commands")
 client.run(auth.TOKEN)
