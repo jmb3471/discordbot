@@ -29,14 +29,3 @@ def decrypt_text(text, seed):
         decrypted += chr(temp)
 
     return decrypted
-
-
-def main():
-    string = "Chase is morbidly Overweight, Violet is a whore! Nobody loves Jacob. I am crying tonight maybe?"
-    print(string)
-    string = encrypt_text(string, 21)
-    print(string)
-    string = decrypt_text(string, 21)
-    print(string)
-
-main()

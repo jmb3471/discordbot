@@ -7,13 +7,15 @@ def ReadFromFile(fileName):
 
         horror_movies = Movie_files.readlines()
 
-        horror_movies = Encryption.decrypt_text(horror_movies, auth.SEED)
+        for i in range(0, len(horror_movies)):
+                horror_movies[i] = Encryption.decrypt_text(horror_movies[i], auth.SEED)
         Movie_files.close()
         return horror_movies
 
 
 def WriteToFile(filename, moviename):
         writefile = open(filename, "a")
+
         moviename = Encryption.encrypt_text(moviename, auth.SEED)
         if os.path.getsize(filename) == 0:
                 writefile.write(moviename)

@@ -28,14 +28,17 @@ genres = ["sci-fi",
 @client.event
 async def on_message(message):
     #If the message is sent by this bot or does not begin with an exclamation mark then don't analyze it
-    if message.author == client.user or message.content[0] != '!':
+    if message.author == client.user:
         return
 
     #Here we break down the message into its various parts
     parts = message.content.split()
+
     filename = parts[0]
     filename = filename[0:]
     command = parts[0].lower()
+    if command[0] != "!":
+        return
     #Checks if the user is looking for a movie of a specific genre
     for genre in genres:
         if command == "!" + genre:
