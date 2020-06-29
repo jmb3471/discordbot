@@ -2,6 +2,7 @@ import random
 
 
 def encrypt_text(text, seed):
+    text = str(text)
     encrypted = ""
     random.seed(seed)
 

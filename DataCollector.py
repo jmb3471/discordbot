@@ -4,6 +4,8 @@ from random import randint
 import threading
 import numpy as np
 import IDcollector
+import Encryption
+import auth
 
 pages = np.arange(1001, 1951, 50)
 threads = []
