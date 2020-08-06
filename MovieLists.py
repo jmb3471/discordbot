@@ -2,13 +2,15 @@ import os
 import Encryption
 import auth
 
-def ReadFromFile(fileName):
+def ReadFromFile(fileName, encrypted):
         Movie_files = open(fileName, "r")
 
         horror_movies = Movie_files.readlines()
 
-        for i in range(0, len(horror_movies)):
-                horror_movies[i] = Encryption.decrypt_text(horror_movies[i], auth.SEED)
+        if encrypted == True:
+                for i in range(0, len(horror_movies)):
+                        horror_movies[i] = Encryption.decrypt_text(horror_movies[i], auth.SEED)
+
         Movie_files.close()
         return horror_movies
 

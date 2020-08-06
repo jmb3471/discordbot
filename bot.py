@@ -43,7 +43,7 @@ async def on_message(message):
     for genre in genres:
         if command == "!" + genre:
             #If the user is looking for a movie from that genre we read from that genres file and take 3 random movies from it
-            movieList = MovieLists.ReadFromFile("GenreLists/" + genre + "Titles.txt")
+            movieList = MovieLists.ReadFromFile("GenreLists/" + genre + "Titles.txt", False)
             randomNum = random.randint(0, len(movieList) - 1)
             #Loops 3 times
             for i in range(1, 4):
@@ -66,7 +66,7 @@ async def on_message(message):
         #Here we set up the path from which to read from
         file_path = "PersonalLists/" + str(message.author) + "list.txt"
         if path.exists(file_path):
-            mylist = MovieLists.ReadFromFile(file_path)
+            mylist = MovieLists.ReadFromFile(file_path, True)
             randomNum = random.randint(0, len(mylist) - 1)
             movieTitle = mylist[randomNum]
             await message.channel.send(set_up_message(movieTitle))
@@ -91,7 +91,7 @@ async def on_message(message):
     elif command == "!recommended":
         #Checks if the person has movies on their list first
         if path.exists("PersonalLists/" + str(message.author) + "list.txt"):
-            user_list = MovieLists.ReadFromFile("PersonalLists/" + str(message.author) + "list.txt")
+            user_list = MovieLists.ReadFromFile("PersonalLists/" + str(message.author) + "list.txt", True)
             base_movie = random.choice(user_list)
             recommended_title = IDcollector.get_recommended(base_movie)
             await message.channel.send(set_up_message(recommended_title))
