@@ -1,6 +1,7 @@
 import os
 import Encryption
 import auth
+import io
 
 def ReadFromFile(fileName, encrypted):
         Movie_files = open(fileName, "r")
@@ -16,14 +17,13 @@ def ReadFromFile(fileName, encrypted):
 
 
 def WriteToFile(filename, moviename):
-        writefile = open(filename, "a")
+        with io.open(filename, "w", encoding="utf-8") as f:
 
-        moviename = Encryption.encrypt_text(moviename, auth.SEED)
-        if os.path.getsize(filename) == 0:
-                writefile.write(moviename)
-        else:
-                writefile.write("\n" + moviename)
-        writefile.close()
+                moviename = Encryption.encrypt_text(moviename, auth.SEED)
+                if os.path.getsize(filename) == 0:
+                        f.write(moviename)
+                else:
+                        f.write("\n" + moviename)
 
 
 def check_if_file_contains(path, title):

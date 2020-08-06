@@ -2,6 +2,7 @@ import random
 
 
 def encrypt_text(text, seed):
+    print(text)
     text = str(text)
     encrypted = ""
     random.seed(seed)
@@ -12,6 +13,7 @@ def encrypt_text(text, seed):
         if temp > 126:
             temp -= 95
         encrypted += chr(temp)
+    print(encrypted)
     return encrypted
 
 
