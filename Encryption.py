@@ -1,34 +1,34 @@
 import random
-
+import auth
 
 def encrypt_text(text, seed):
-    print(text)
     text = str(text)
+    print(text)
     encrypted = ""
     random.seed(seed)
 
     for i in range(0, len(text)):
-        num = random.randrange(32, 126, 1)
+        num = random.randrange(40, 120, 1)
         temp = ord(text[i]) + num
-        if temp > 126:
-            temp -= 95
+        if temp > 120:
+            temp -= 80
         encrypted += chr(temp)
     print(encrypted)
     return encrypted
 
 
 def decrypt_text(text, seed):
+    print(text)
     decrypted = ""
     random.seed(seed)
 
     for i in range(0, len(text)):
-        num = random.randrange(32, 126, 1)
+        num = random.randrange(40, 120, 1)
 
         temp = ord(text[i]) - num
-
-        if temp < 32:
-            temp += 95
+        if temp < 40:
+            temp += 80
 
         decrypted += chr(temp)
-
+    print(decrypted)
     return decrypted
